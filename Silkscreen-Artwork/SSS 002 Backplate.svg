@@ -15,7 +15,10 @@
    version="1.1"
    id="svg1787"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="SSS 002 Backplate.svg">
+   sodipodi:docname="SSS 002 Backplate.svg"
+   inkscape:export-filename="C:\Users\RCCol\OneDrive\Documents\git\steel-string-singer-sn-002\Silkscreen-Artwork\SSS 002 Backplate.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs1781">
     <marker
@@ -535,9 +538,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.33051758"
-     inkscape:cx="1278.4504"
-     inkscape:cy="1.6077887"
+     inkscape:zoom="3.7393795"
+     inkscape:cx="1203.5717"
+     inkscape:cy="-47.261735"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1-2"
      showgrid="false"
@@ -914,14 +917,14 @@
            x="1026.5157"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'BD Geminis';-inkscape-font-specification:'BD Geminis';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             style="font-size:25.00000191px;line-height:100.99999905%;text-align:center;text-anchor:middle"
+             style="font-size:25.00000191px;line-height:87.00000048%;text-align:center;text-anchor:middle"
              id="tspan7072"
              y="1287.3743"
              x="1026.5157"
              sodipodi:role="line">ohm load</tspan><tspan
              id="tspan7074"
-             style="font-size:19.73644829px;line-height:100.99999905%;text-align:center;text-anchor:middle"
-             y="1308.5876"
+             style="font-size:19.73644829px;line-height:87.00000048%;text-align:center;text-anchor:middle"
+             y="1305.4561"
              x="1026.5157"
              sodipodi:role="line">100 watts</tspan></text>
         <text
@@ -1027,12 +1030,12 @@
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="1076.4659"
-           y="1310.0448"
+           y="1306.2948"
            id="text4325"><tspan
              sodipodi:role="line"
              id="tspan4327"
              x="1076.4659"
-             y="1310.0448"
+             y="1306.2948"
              style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.25000095px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax Semi-Bold'">AVE</tspan></text>
         <circle
            r="5"
