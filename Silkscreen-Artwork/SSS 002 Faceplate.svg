@@ -2679,16 +2679,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.46742244"
+     inkscape:zoom="1.3220703"
      inkscape:cx="1127.863"
-     inkscape:cy="227.7541"
+     inkscape:cy="313.32979"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1-2"
      showgrid="false"
      units="in"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1147"
+     inkscape:window-height="1027"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -3786,6 +3786,17 @@
                x="1170.9113"
                id="tspan1777"
                sodipodi:role="line">volume</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="1974.5657"
+             y="231.7169"
+             id="text1650"><tspan
+               sodipodi:role="line"
+               id="tspan1648"
+               x="1974.5657"
+               y="231.7169"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'BD Geminis';-inkscape-font-specification:'BD Geminis'">filter</tspan></text>
         </g>
         <g
            inkscape:label="Layer 2"
