@@ -50,5 +50,5 @@ If your chassis is powder coated, provide the silk screener the Manage Material 
 There is usually a setup fee and with this fee, the silk screener might adjust the artwork so they can align the holes the way they prefer so the artwork is laid down straight. 
 
 ### Additional Information
-Always double check mine, and your work. I am not responsible for any loses as I'm providing this information for free and educational purposes. I am confident these drawings and files will produce an excellent chassis and I have a bit of experience now with designing and outsourcing my own chasiss. Enjoy and good look! Drop me a message if you have any questions or you want to let me know how your chassis went! 
+Always double check mine, and your work. I am not responsible for any loses as I'm providing this information for free and educational purposes. I am confident these drawings and files will produce an excellent chassis as-is and I have a bit of experience now with designing and outsourcing my own chasiss. Enjoy and good look! Drop me a message if you have any questions or you want to let me know how your chassis went! 
 [https://www.thetonegeek.com/](https://www.thetonegeek.com/)
