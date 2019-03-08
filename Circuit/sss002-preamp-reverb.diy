@@ -1711,7 +1711,7 @@
       </width>
       <points>
         <java.awt.Point x="9.44" y="1.875"/>
-        <java.awt.Point x="10.005" y="1.875"/>
+        <java.awt.Point x="10.0" y="1.875"/>
       </points>
       <bodyColor>
         <red>130</red>
@@ -2510,7 +2510,7 @@
       <name>J1</name>
       <alpha>127</alpha>
       <points>
-        <java.awt.Point x="10.005" y="1.875"/>
+        <java.awt.Point x="10.0" y="1.875"/>
         <java.awt.Point x="10.065" y="1.685"/>
       </points>
       <bodyColor>
