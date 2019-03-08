@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<org.diylc.core.Project>
+  <fileVersion>
+    <major>3</major>
+    <minor>55</minor>
+    <build>1</build>
+  </fileVersion>
+  <title>New Project</title>
+  <author>RCCol</author>
+  <width>
+    <value>6.25</value>
+    <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+  </width>
+  <height>
+    <value>3.125</value>
+    <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+  </height>
+  <gridSpacing>
+    <value>0.0625</value>
+    <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+  </gridSpacing>
+  <components>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet18</name>
+      <size>
+        <value>0.2</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </size>
+      <holeSize>
+        <value>0.1</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </holeSize>
+      <color>
+        <red>195</red>
+        <green>228</green>
+        <blue>237</blue>
+        <alpha>255</alpha>
+      </color>
+      <point x="2.84" y="1.94"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.boards.BlankBoard>
+      <name>Board1</name>
+      <alpha>127</alpha>
+      <value></value>
+      <controlPoints>
+        <java.awt.Point x="0.0" y="0.0"/>
+        <java.awt.Point x="6.25" y="3.125"/>
+      </controlPoints>
+      <firstPoint x="0.0" y="0.0"/>
+      <secondPoint x="6.25" y="3.125"/>
+      <boardColor>
+        <red>248</red>
+        <green>235</green>
+        <blue>179</blue>
+        <alpha>255</alpha>
+      </boardColor>
+      <borderColor>
+        <red>173</red>
+        <green>164</green>
+        <blue>125</blue>
+        <alpha>255</alpha>
+      </borderColor>
+      <coordinateColor>
+        <red>182</red>
+        <green>182</green>
+        <blue>182</blue>
+        <alpha>255</alpha>
+      </coordinateColor>
+      <xType>Numbers</xType>
+      <coordinateOrigin>Top_Left</coordinateOrigin>
+      <coordinateDisplay>One_Side</coordinateDisplay>
+      <yType>Letters</yType>
+      <type>SQUARE</type>
+    </org.diylc.components.boards.BlankBoard>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet19</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet/color"/>
+      <point x="2.84" y="2.5"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet20</name>
+      <size>
+        <value>0.2</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </size>
+      <holeSize>
+        <value>0.1</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </holeSize>
+      <color>
+        <red>195</red>
+        <green>228</green>
+        <blue>237</blue>
+        <alpha>255</alpha>
+      </color>
+      <point x="2.84" y="1.375"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet1</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet/color"/>
+      <point x="0.545" y="0.995"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet2</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet/color"/>
+      <point x="1.435" y="1.0"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet3</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet/color"/>
+      <point x="2.36" y="1.055"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet4</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet/color"/>
+      <point x="3.37" y="1.06"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet5</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet/color"/>
+      <point x="4.235" y="1.06"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet6</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet/color"/>
+      <point x="5.0" y="1.06"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet7</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet/color"/>
+      <point x="5.75" y="1.06"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet8</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet/color"/>
+      <point x="5.76" y="2.8"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet9</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet/color"/>
+      <point x="5.02" y="2.82"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet10</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet/color"/>
+      <point x="4.205" y="2.81"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet11</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet/color"/>
+      <point x="3.365" y="2.81"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet12</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet/color"/>
+      <point x="2.365" y="2.815"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet13</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet/color"/>
+      <point x="1.445" y="2.81"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet14</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet/color"/>
+      <point x="0.565" y="2.81"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet15</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet/color"/>
+      <point x="1.0" y="1.94"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet16</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet/color"/>
+      <point x="1.0" y="2.5"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet17</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet/color"/>
+      <point x="1.0" y="2.81"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet16</name>
+      <size reference="../../org.diylc.components.connectivity.Eyelet[3]/size"/>
+      <holeSize reference="../../org.diylc.components.connectivity.Eyelet[3]/holeSize"/>
+      <color reference="../../org.diylc.components.connectivity.Eyelet[3]/color"/>
+      <point x="1.0" y="1.375"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet17</name>
+      <size>
+        <value>0.2</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </size>
+      <holeSize>
+        <value>0.1</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </holeSize>
+      <color>
+        <red>195</red>
+        <green>228</green>
+        <blue>237</blue>
+        <alpha>255</alpha>
+      </color>
+      <point x="1.295" y="0.645"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet17</name>
+      <size>
+        <value>0.2</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </size>
+      <holeSize>
+        <value>0.1</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </holeSize>
+      <color>
+        <red>195</red>
+        <green>228</green>
+        <blue>237</blue>
+        <alpha>255</alpha>
+      </color>
+      <point x="0.82" y="0.38"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet2</name>
+      <size>
+        <value>0.2</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </size>
+      <holeSize>
+        <value>0.1</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </holeSize>
+      <color>
+        <red>195</red>
+        <green>228</green>
+        <blue>237</blue>
+        <alpha>255</alpha>
+      </color>
+      <point x="1.685" y="0.2"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet2</name>
+      <size>
+        <value>0.2</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </size>
+      <holeSize>
+        <value>0.1</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </holeSize>
+      <color>
+        <red>195</red>
+        <green>228</green>
+        <blue>237</blue>
+        <alpha>255</alpha>
+      </color>
+      <point x="1.32" y="0.185"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet4</name>
+      <size>
+        <value>0.2</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </size>
+      <holeSize>
+        <value>0.1</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </holeSize>
+      <color>
+        <red>195</red>
+        <green>228</green>
+        <blue>237</blue>
+        <alpha>255</alpha>
+      </color>
+      <point x="2.445" y="0.545"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet4</name>
+      <size>
+        <value>0.2</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </size>
+      <holeSize>
+        <value>0.1</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </holeSize>
+      <color>
+        <red>195</red>
+        <green>228</green>
+        <blue>237</blue>
+        <alpha>255</alpha>
+      </color>
+      <point x="3.07" y="0.565"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.connectivity.Eyelet>
+      <name>Eyelet4</name>
+      <size>
+        <value>0.2</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </size>
+      <holeSize>
+        <value>0.1</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </holeSize>
+      <color>
+        <red>195</red>
+        <green>228</green>
+        <blue>237</blue>
+        <alpha>255</alpha>
+      </color>
+      <point x="4.9" y="0.56"/>
+      <value></value>
+    </org.diylc.components.connectivity.Eyelet>
+    <org.diylc.components.passive.AxialElectrolyticCapacitor>
+      <name>C1</name>
+      <alpha>127</alpha>
+      <length>
+        <value>1.44</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </length>
+      <width>
+        <value>0.83</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </width>
+      <points>
+        <java.awt.Point x="0.56" y="2.81"/>
+        <java.awt.Point x="0.56" y="1.0"/>
+      </points>
+      <bodyColor>
+        <red>102</red>
+        <green>102</green>
+        <blue>102</blue>
+        <alpha>255</alpha>
+      </bodyColor>
+      <borderColor>
+        <red>255</red>
+        <green>204</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </borderColor>
+      <labelColor>
+        <red>255</red>
+        <green>204</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </labelColor>
+      <leadColor>
+        <red>204</red>
+        <green>204</green>
+        <blue>204</blue>
+        <alpha>255</alpha>
+      </leadColor>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value>
+        <value>47.0</value>
+        <unit class="org.diylc.core.measures.CapacitanceUnit">uF</unit>
+      </value>
+      <voltage>_63V</voltage>
+      <voltageNew>
+        <value>500.0</value>
+        <unit class="org.diylc.core.measures.VoltageUnit">V</unit>
+      </voltageNew>
+      <markerColor>
+        <red>51</red>
+        <green>51</green>
+        <blue>51</blue>
+        <alpha>255</alpha>
+      </markerColor>
+      <tickColor>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+        <alpha>255</alpha>
+      </tickColor>
+      <polarized>true</polarized>
+    </org.diylc.components.passive.AxialElectrolyticCapacitor>
+    <org.diylc.components.passive.AxialElectrolyticCapacitor>
+      <name>C2</name>
+      <alpha>127</alpha>
+      <length reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor/length"/>
+      <width reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor/width"/>
+      <points>
+        <java.awt.Point x="1.435" y="2.81"/>
+        <java.awt.Point x="1.435" y="1.0"/>
+      </points>
+      <bodyColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor/bodyColor"/>
+      <borderColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor/borderColor"/>
+      <labelColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor/labelColor"/>
+      <leadColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor/leadColor"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor/value"/>
+      <voltage>_63V</voltage>
+      <voltageNew reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor/voltageNew"/>
+      <markerColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor/markerColor"/>
+      <tickColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor/tickColor"/>
+      <polarized>true</polarized>
+    </org.diylc.components.passive.AxialElectrolyticCapacitor>
+    <org.diylc.components.passive.AxialElectrolyticCapacitor>
+      <name>C3</name>
+      <alpha>127</alpha>
+      <length>
+        <value>1.45</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </length>
+      <width>
+        <value>0.98</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </width>
+      <points>
+        <java.awt.Point x="2.375" y="2.81"/>
+        <java.awt.Point x="2.375" y="1.06"/>
+      </points>
+      <bodyColor>
+        <red>102</red>
+        <green>102</green>
+        <blue>102</blue>
+        <alpha>255</alpha>
+      </bodyColor>
+      <borderColor>
+        <red>255</red>
+        <green>204</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </borderColor>
+      <labelColor>
+        <red>255</red>
+        <green>204</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </labelColor>
+      <leadColor>
+        <red>204</red>
+        <green>204</green>
+        <blue>204</blue>
+        <alpha>255</alpha>
+      </leadColor>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value>
+        <value>100.0</value>
+        <unit class="org.diylc.core.measures.CapacitanceUnit">uF</unit>
+      </value>
+      <voltage>_63V</voltage>
+      <voltageNew>
+        <value>350.0</value>
+        <unit class="org.diylc.core.measures.VoltageUnit">V</unit>
+      </voltageNew>
+      <markerColor>
+        <red>51</red>
+        <green>51</green>
+        <blue>51</blue>
+        <alpha>255</alpha>
+      </markerColor>
+      <tickColor>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+        <alpha>255</alpha>
+      </tickColor>
+      <polarized>true</polarized>
+    </org.diylc.components.passive.AxialElectrolyticCapacitor>
+    <org.diylc.components.passive.AxialElectrolyticCapacitor>
+      <name>C4</name>
+      <alpha>127</alpha>
+      <length reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[3]/length"/>
+      <width reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[3]/width"/>
+      <points>
+        <java.awt.Point x="3.375" y="2.81"/>
+        <java.awt.Point x="3.375" y="1.06"/>
+      </points>
+      <bodyColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[3]/bodyColor"/>
+      <borderColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[3]/borderColor"/>
+      <labelColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[3]/labelColor"/>
+      <leadColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[3]/leadColor"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[3]/value"/>
+      <voltage>_63V</voltage>
+      <voltageNew reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[3]/voltageNew"/>
+      <markerColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[3]/markerColor"/>
+      <tickColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[3]/tickColor"/>
+      <polarized>true</polarized>
+    </org.diylc.components.passive.AxialElectrolyticCapacitor>
+    <org.diylc.components.passive.AxialElectrolyticCapacitor>
+      <name>C5</name>
+      <alpha>127</alpha>
+      <length>
+        <value>1.55</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </length>
+      <width>
+        <value>0.71</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </width>
+      <points>
+        <java.awt.Point x="4.25" y="2.81"/>
+        <java.awt.Point x="4.25" y="1.06"/>
+      </points>
+      <bodyColor>
+        <red>102</red>
+        <green>102</green>
+        <blue>102</blue>
+        <alpha>255</alpha>
+      </bodyColor>
+      <borderColor>
+        <red>255</red>
+        <green>204</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </borderColor>
+      <labelColor>
+        <red>255</red>
+        <green>204</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </labelColor>
+      <leadColor>
+        <red>204</red>
+        <green>204</green>
+        <blue>204</blue>
+        <alpha>255</alpha>
+      </leadColor>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value>
+        <value>22.0</value>
+        <unit class="org.diylc.core.measures.CapacitanceUnit">uF</unit>
+      </value>
+      <voltage>_63V</voltage>
+      <voltageNew>
+        <value>500.0</value>
+        <unit class="org.diylc.core.measures.VoltageUnit">V</unit>
+      </voltageNew>
+      <markerColor>
+        <red>51</red>
+        <green>51</green>
+        <blue>51</blue>
+        <alpha>255</alpha>
+      </markerColor>
+      <tickColor>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+        <alpha>255</alpha>
+      </tickColor>
+      <polarized>true</polarized>
+    </org.diylc.components.passive.AxialElectrolyticCapacitor>
+    <org.diylc.components.passive.AxialElectrolyticCapacitor>
+      <name>C6</name>
+      <alpha>127</alpha>
+      <length reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/length"/>
+      <width reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/width"/>
+      <points>
+        <java.awt.Point x="5.0" y="2.81"/>
+        <java.awt.Point x="5.0" y="1.06"/>
+      </points>
+      <bodyColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/bodyColor"/>
+      <borderColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/borderColor"/>
+      <labelColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/labelColor"/>
+      <leadColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/leadColor"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/value"/>
+      <voltage>_63V</voltage>
+      <voltageNew reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/voltageNew"/>
+      <markerColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/markerColor"/>
+      <tickColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/tickColor"/>
+      <polarized>true</polarized>
+    </org.diylc.components.passive.AxialElectrolyticCapacitor>
+    <org.diylc.components.passive.AxialElectrolyticCapacitor>
+      <name>C7</name>
+      <alpha>127</alpha>
+      <length reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/length"/>
+      <width reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/width"/>
+      <points>
+        <java.awt.Point x="5.75" y="2.81"/>
+        <java.awt.Point x="5.75" y="1.06"/>
+      </points>
+      <bodyColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/bodyColor"/>
+      <borderColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/borderColor"/>
+      <labelColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/labelColor"/>
+      <leadColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/leadColor"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/value"/>
+      <voltage>_63V</voltage>
+      <voltageNew reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/voltageNew"/>
+      <markerColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/markerColor"/>
+      <tickColor reference="../../org.diylc.components.passive.AxialElectrolyticCapacitor[5]/tickColor"/>
+      <polarized>true</polarized>
+    </org.diylc.components.passive.AxialElectrolyticCapacitor>
+    <org.diylc.components.passive.Resistor>
+      <name>R1</name>
+      <alpha>127</alpha>
+      <length>
+        <value>12.0</value>
+        <unit class="org.diylc.core.measures.SizeUnit">mm</unit>
+      </length>
+      <width>
+        <value>4.0</value>
+        <unit class="org.diylc.core.measures.SizeUnit">mm</unit>
+      </width>
+      <points>
+        <java.awt.Point x="1.0" y="2.5"/>
+        <java.awt.Point x="1.0" y="1.94"/>
+      </points>
+      <bodyColor>
+        <red>210</red>
+        <green>215</green>
+        <blue>219</blue>
+        <alpha>255</alpha>
+      </bodyColor>
+      <borderColor>
+        <red>178</red>
+        <green>183</green>
+        <blue>187</blue>
+        <alpha>255</alpha>
+      </borderColor>
+      <labelColor>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </labelColor>
+      <leadColor>
+        <red>204</red>
+        <green>204</green>
+        <blue>204</blue>
+        <alpha>255</alpha>
+      </leadColor>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value>
+        <value>270.0</value>
+        <unit class="org.diylc.core.measures.ResistanceUnit">K</unit>
+      </value>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </org.diylc.components.passive.Resistor>
+    <org.diylc.components.passive.Resistor>
+      <name>R2</name>
+      <alpha>127</alpha>
+      <length reference="../../org.diylc.components.passive.Resistor/length"/>
+      <width reference="../../org.diylc.components.passive.Resistor/width"/>
+      <points>
+        <java.awt.Point x="1.0" y="1.94"/>
+        <java.awt.Point x="1.0" y="1.38"/>
+      </points>
+      <bodyColor reference="../../org.diylc.components.passive.Resistor/bodyColor"/>
+      <borderColor reference="../../org.diylc.components.passive.Resistor/borderColor"/>
+      <labelColor reference="../../org.diylc.components.passive.Resistor/labelColor"/>
+      <leadColor reference="../../org.diylc.components.passive.Resistor/leadColor"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value reference="../../org.diylc.components.passive.Resistor/value"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </org.diylc.components.passive.Resistor>
+    <org.diylc.components.passive.Resistor>
+      <name>R3</name>
+      <alpha>127</alpha>
+      <length reference="../../org.diylc.components.passive.Resistor/length"/>
+      <width reference="../../org.diylc.components.passive.Resistor/width"/>
+      <points>
+        <java.awt.Point x="2.84" y="2.5"/>
+        <java.awt.Point x="2.84" y="1.94"/>
+      </points>
+      <bodyColor reference="../../org.diylc.components.passive.Resistor/bodyColor"/>
+      <borderColor reference="../../org.diylc.components.passive.Resistor/borderColor"/>
+      <labelColor reference="../../org.diylc.components.passive.Resistor/labelColor"/>
+      <leadColor reference="../../org.diylc.components.passive.Resistor/leadColor"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value reference="../../org.diylc.components.passive.Resistor/value"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </org.diylc.components.passive.Resistor>
+    <org.diylc.components.passive.Resistor>
+      <name>R4</name>
+      <alpha>127</alpha>
+      <length reference="../../org.diylc.components.passive.Resistor/length"/>
+      <width reference="../../org.diylc.components.passive.Resistor/width"/>
+      <points>
+        <java.awt.Point x="2.84" y="1.94"/>
+        <java.awt.Point x="2.84" y="1.38"/>
+      </points>
+      <bodyColor reference="../../org.diylc.components.passive.Resistor/bodyColor"/>
+      <borderColor reference="../../org.diylc.components.passive.Resistor/borderColor"/>
+      <labelColor reference="../../org.diylc.components.passive.Resistor/labelColor"/>
+      <leadColor reference="../../org.diylc.components.passive.Resistor/leadColor"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value reference="../../org.diylc.components.passive.Resistor/value"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </org.diylc.components.passive.Resistor>
+    <org.diylc.components.passive.Resistor>
+      <name>R5</name>
+      <alpha>127</alpha>
+      <length reference="../../org.diylc.components.passive.Resistor/length"/>
+      <width reference="../../org.diylc.components.passive.Resistor/width"/>
+      <points>
+        <java.awt.Point x="4.185" y="2.81"/>
+        <java.awt.Point x="5.06" y="2.81"/>
+      </points>
+      <bodyColor reference="../../org.diylc.components.passive.Resistor/bodyColor"/>
+      <borderColor reference="../../org.diylc.components.passive.Resistor/borderColor"/>
+      <labelColor reference="../../org.diylc.components.passive.Resistor/labelColor"/>
+      <leadColor reference="../../org.diylc.components.passive.Resistor/leadColor"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value>
+        <value>22.0</value>
+        <unit class="org.diylc.core.measures.ResistanceUnit">K</unit>
+      </value>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </org.diylc.components.passive.Resistor>
+    <org.diylc.components.semiconductors.DiodePlastic>
+      <name>D1</name>
+      <alpha>127</alpha>
+      <length>
+        <value>0.25</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </length>
+      <width>
+        <value>0.125</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </width>
+      <points>
+        <java.awt.Point x="0.81" y="0.375"/>
+        <java.awt.Point x="0.56" y="1.0"/>
+      </points>
+      <bodyColor>
+        <red>64</red>
+        <green>64</green>
+        <blue>64</blue>
+        <alpha>255</alpha>
+      </bodyColor>
+      <borderColor>
+        <red>44</red>
+        <green>44</green>
+        <blue>44</blue>
+        <alpha>255</alpha>
+      </borderColor>
+      <labelColor>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+        <alpha>255</alpha>
+      </labelColor>
+      <leadColor reference="../../org.diylc.components.passive.Resistor/leadColor"/>
+      <display>NONE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value></value>
+      <markerColor>
+        <red>221</red>
+        <green>221</green>
+        <blue>221</blue>
+        <alpha>255</alpha>
+      </markerColor>
+    </org.diylc.components.semiconductors.DiodePlastic>
+    <org.diylc.components.semiconductors.DiodePlastic>
+      <name>D1</name>
+      <alpha>127</alpha>
+      <length>
+        <value>0.25</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </length>
+      <width>
+        <value>0.125</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </width>
+      <points>
+        <java.awt.Point x="1.305" y="0.625"/>
+        <java.awt.Point x="0.56" y="1.0"/>
+      </points>
+      <bodyColor>
+        <red>64</red>
+        <green>64</green>
+        <blue>64</blue>
+        <alpha>255</alpha>
+      </bodyColor>
+      <borderColor>
+        <red>44</red>
+        <green>44</green>
+        <blue>44</blue>
+        <alpha>255</alpha>
+      </borderColor>
+      <labelColor>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+        <alpha>255</alpha>
+      </labelColor>
+      <leadColor>
+        <red>204</red>
+        <green>204</green>
+        <blue>204</blue>
+        <alpha>255</alpha>
+      </leadColor>
+      <display>NONE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value></value>
+      <markerColor>
+        <red>221</red>
+        <green>221</green>
+        <blue>221</blue>
+        <alpha>255</alpha>
+      </markerColor>
+    </org.diylc.components.semiconductors.DiodePlastic>
+    <org.diylc.components.semiconductors.DiodePlastic>
+      <name>D2</name>
+      <alpha>127</alpha>
+      <length>
+        <value>0.25</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </length>
+      <width>
+        <value>0.125</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </width>
+      <points>
+        <java.awt.Point x="1.31" y="0.185"/>
+        <java.awt.Point x="0.805" y="0.375"/>
+      </points>
+      <bodyColor reference="../../org.diylc.components.semiconductors.DiodePlastic/bodyColor"/>
+      <borderColor reference="../../org.diylc.components.semiconductors.DiodePlastic/borderColor"/>
+      <labelColor reference="../../org.diylc.components.semiconductors.DiodePlastic/labelColor"/>
+      <leadColor reference="../../org.diylc.components.passive.Resistor/leadColor"/>
+      <display>NONE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value></value>
+      <markerColor reference="../../org.diylc.components.semiconductors.DiodePlastic/markerColor"/>
+    </org.diylc.components.semiconductors.DiodePlastic>
+    <org.diylc.components.semiconductors.DiodePlastic>
+      <name>D2</name>
+      <alpha>127</alpha>
+      <length>
+        <value>0.25</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </length>
+      <width>
+        <value>0.125</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </width>
+      <points>
+        <java.awt.Point x="1.685" y="0.185"/>
+        <java.awt.Point x="1.3" y="0.615"/>
+      </points>
+      <bodyColor>
+        <red>64</red>
+        <green>64</green>
+        <blue>64</blue>
+        <alpha>255</alpha>
+      </bodyColor>
+      <borderColor>
+        <red>44</red>
+        <green>44</green>
+        <blue>44</blue>
+        <alpha>255</alpha>
+      </borderColor>
+      <labelColor>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+        <alpha>255</alpha>
+      </labelColor>
+      <leadColor>
+        <red>204</red>
+        <green>204</green>
+        <blue>204</blue>
+        <alpha>255</alpha>
+      </leadColor>
+      <display>NONE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value></value>
+      <markerColor>
+        <red>221</red>
+        <green>221</green>
+        <blue>221</blue>
+        <alpha>255</alpha>
+      </markerColor>
+    </org.diylc.components.semiconductors.DiodePlastic>
+    <org.diylc.components.passive.Resistor>
+      <name>R6</name>
+      <alpha>127</alpha>
+      <length reference="../../org.diylc.components.passive.Resistor/length"/>
+      <width reference="../../org.diylc.components.passive.Resistor/width"/>
+      <points>
+        <java.awt.Point x="1.685" y="0.185"/>
+        <java.awt.Point x="2.445" y="0.545"/>
+      </points>
+      <bodyColor reference="../../org.diylc.components.passive.Resistor/bodyColor"/>
+      <borderColor reference="../../org.diylc.components.passive.Resistor/borderColor"/>
+      <labelColor reference="../../org.diylc.components.passive.Resistor/labelColor"/>
+      <leadColor reference="../../org.diylc.components.passive.Resistor/leadColor"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value>
+        <value>3.3</value>
+        <unit class="org.diylc.core.measures.ResistanceUnit">K</unit>
+      </value>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </org.diylc.components.passive.Resistor>
+    <org.diylc.components.semiconductors.DiodePlastic>
+      <name>D3</name>
+      <alpha>127</alpha>
+      <length>
+        <value>0.25</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </length>
+      <width>
+        <value>0.125</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </width>
+      <points>
+        <java.awt.Point x="3.125" y="0.56"/>
+        <java.awt.Point x="2.445" y="0.545"/>
+      </points>
+      <bodyColor reference="../../org.diylc.components.semiconductors.DiodePlastic/bodyColor"/>
+      <borderColor reference="../../org.diylc.components.semiconductors.DiodePlastic/borderColor"/>
+      <labelColor reference="../../org.diylc.components.semiconductors.DiodePlastic/labelColor"/>
+      <leadColor reference="../../org.diylc.components.passive.Resistor/leadColor"/>
+      <display>NONE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value></value>
+      <markerColor reference="../../org.diylc.components.semiconductors.DiodePlastic/markerColor"/>
+    </org.diylc.components.semiconductors.DiodePlastic>
+    <org.diylc.components.passive.AxialElectrolyticCapacitor>
+      <name>C8</name>
+      <alpha>127</alpha>
+      <length>
+        <value>1.55</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </length>
+      <width>
+        <value>0.71</value>
+        <unit class="org.diylc.core.measures.SizeUnit">in</unit>
+      </width>
+      <points>
+        <java.awt.Point x="4.875" y="0.56"/>
+        <java.awt.Point x="3.125" y="0.56"/>
+      </points>
+      <bodyColor>
+        <red>102</red>
+        <green>102</green>
+        <blue>102</blue>
+        <alpha>255</alpha>
+      </bodyColor>
+      <borderColor>
+        <red>255</red>
+        <green>204</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </borderColor>
+      <labelColor>
+        <red>255</red>
+        <green>204</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </labelColor>
+      <leadColor>
+        <red>204</red>
+        <green>204</green>
+        <blue>204</blue>
+        <alpha>255</alpha>
+      </leadColor>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <value>
+        <value>10.0</value>
+        <unit class="org.diylc.core.measures.CapacitanceUnit">uF</unit>
+      </value>
+      <voltage>_63V</voltage>
+      <voltageNew>
+        <value>500.0</value>
+        <unit class="org.diylc.core.measures.VoltageUnit">V</unit>
+      </voltageNew>
+      <markerColor>
+        <red>51</red>
+        <green>51</green>
+        <blue>51</blue>
+        <alpha>255</alpha>
+      </markerColor>
+      <tickColor>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+        <alpha>255</alpha>
+      </tickColor>
+      <polarized>true</polarized>
+    </org.diylc.components.passive.AxialElectrolyticCapacitor>
+  </components>
+  <groups/>
+  <lockedLayers>
+    <int>2</int>
+  </lockedLayers>
+  <hiddenLayers/>
+  <font>
+    <attributes>
+      <entry>
+        <awt-text-attribute>weight</awt-text-attribute>
+        <null/>
+      </entry>
+      <entry>
+        <awt-text-attribute>transform</awt-text-attribute>
+        <null/>
+      </entry>
+      <entry>
+        <awt-text-attribute>family</awt-text-attribute>
+        <string>Square721 BT</string>
+      </entry>
+      <entry>
+        <awt-text-attribute>width</awt-text-attribute>
+        <null/>
+      </entry>
+      <entry>
+        <awt-text-attribute>superscript</awt-text-attribute>
+        <null/>
+      </entry>
+      <entry>
+        <awt-text-attribute>posture</awt-text-attribute>
+        <null/>
+      </entry>
+      <entry>
+        <awt-text-attribute>tracking</awt-text-attribute>
+        <null/>
+      </entry>
+      <entry>
+        <awt-text-attribute>size</awt-text-attribute>
+        <float>14.0</float>
+      </entry>
+    </attributes>
+  </font>
+</org.diylc.core.Project>
