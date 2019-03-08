@@ -11,6 +11,7 @@ This project is to create a tube amplifier chassis that can be compared to a Dum
 | AutoCAD-Design | Layout and precision design using AutoCAD. *.dwg and *.dxf files |
 | Reference-Pictures | *.png screen shots of various portions of the chassis in Inventor |
 | Silkscreen-Artwork | *.pdf and *.svg of the front and back artwork |
+| Circuit | Schematics and layouts that are SSS #002 based |
 
 
 ### Notes about Fabrication
