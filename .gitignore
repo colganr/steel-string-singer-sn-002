@@ -2,3 +2,7 @@
 .DS_Store
 *.lck
 .DS_Store
+*.bak
+*.dwl2
+*.dwl
+*.bak
