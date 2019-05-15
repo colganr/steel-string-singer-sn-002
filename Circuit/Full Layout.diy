@@ -88,7 +88,7 @@
     </diylc.chassis.ChassisPanel>
     <diylc.misc.Image>
       <name>Img1</name>
-      <alpha>44</alpha>
+      <alpha>19</alpha>
       <point x="2.8" y="0.3"/>
       <data>iVBORw0KGgoAAAANSUhEUgAAG9UAAAJYCAYAAAB4JuAjAAAC0XpUWHRSYXcgcHJvZmlsZSB0eXBl
 IGV4aWYAAHjaxZVrrhwpDIX/s4osAdsYm+VQPKTZwSw/B4rbnb63EynJSAOqgjLGwPmACuPff2b4
@@ -2882,23 +2882,7 @@ AAAAAAAAlur/AW6cLsTHfMtQAAAAAElFTkSuQmCC</data>
       <size value="0.16" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
-      <point x="21.63" y="4.415"/>
-      <value></value>
-    </diylc.connectivity.Turret>
-    <diylc.connectivity.Turret>
-      <name>Turret3</name>
-      <size value="0.16" unit="in"/>
-      <holeSize value="0.0625" unit="in"/>
-      <color hex="e0c04c"/>
       <point x="21.45" y="6.025"/>
-      <value></value>
-    </diylc.connectivity.Turret>
-    <diylc.connectivity.Turret>
-      <name>Turret3</name>
-      <size value="0.16" unit="in"/>
-      <holeSize value="0.0625" unit="in"/>
-      <color hex="e0c04c"/>
-      <point x="21.4" y="4.27"/>
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
@@ -2915,38 +2899,6 @@ AAAAAAAAlur/AW6cLsTHfMtQAAAAAElFTkSuQmCC</data>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
       <point x="20.095" y="5.435"/>
-      <value></value>
-    </diylc.connectivity.Turret>
-    <diylc.connectivity.Turret>
-      <name>Turret3</name>
-      <size value="0.16" unit="in"/>
-      <holeSize value="0.0625" unit="in"/>
-      <color hex="e0c04c"/>
-      <point x="21.605" y="3.3"/>
-      <value></value>
-    </diylc.connectivity.Turret>
-    <diylc.connectivity.Turret>
-      <name>Turret3</name>
-      <size value="0.16" unit="in"/>
-      <holeSize value="0.0625" unit="in"/>
-      <color hex="e0c04c"/>
-      <point x="20.165" y="3.29"/>
-      <value></value>
-    </diylc.connectivity.Turret>
-    <diylc.connectivity.Turret>
-      <name>Turret3</name>
-      <size value="0.16" unit="in"/>
-      <holeSize value="0.0625" unit="in"/>
-      <color hex="e0c04c"/>
-      <point x="20.895" y="3.6"/>
-      <value></value>
-    </diylc.connectivity.Turret>
-    <diylc.connectivity.Turret>
-      <name>Turret3</name>
-      <size value="0.16" unit="in"/>
-      <holeSize value="0.0625" unit="in"/>
-      <color hex="e0c04c"/>
-      <point x="20.89" y="3.975"/>
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
@@ -3059,14 +3011,6 @@ AAAAAAAAlur/AW6cLsTHfMtQAAAAAElFTkSuQmCC</data>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
       <point x="21.64" y="5.6"/>
-      <value></value>
-    </diylc.connectivity.Turret>
-    <diylc.connectivity.Turret>
-      <name>Turret3</name>
-      <size value="0.16" unit="in"/>
-      <holeSize value="0.0625" unit="in"/>
-      <color hex="e0c04c"/>
-      <point x="19.41" y="3.305"/>
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
@@ -3886,30 +3830,6 @@ AAAAAAAAlur/AW6cLsTHfMtQAAAAAElFTkSuQmCC</data>
         <point x="19.485" y="4.455"/>
       </controlPoints>
     </diylc.tube.TubeSocket>
-    <diylc.passive.Resistor>
-      <name>R1</name>
-      <alpha>127</alpha>
-      <length value="9.0" unit="mm"/>
-      <width value="3.2" unit="mm"/>
-      <points>
-        <point x="20.155" y="3.305"/>
-        <point x="19.41" y="3.305"/>
-        <point x="19.78" y="3.305"/>
-      </points>
-      <bodyColor hex="e0c68b"/>
-      <borderColor hex="a59268"/>
-      <labelColor hex="000000"/>
-      <leadColor hex="cccccc"/>
-      <display>VALUE</display>
-      <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
-      <moveLabel>false</moveLabel>
-      <value value="100.0" unit="K"/>
-      <power>HALF</power>
-      <powerNew value="0.5" unit="W"/>
-      <colorCode>_5_BAND</colorCode>
-      <shape>Standard</shape>
-    </diylc.passive.Resistor>
     <diylc.passive.Resistor>
       <name>R1</name>
       <alpha>127</alpha>
@@ -6538,7 +6458,7 @@ AAAAAAAAlur/AW6cLsTHfMtQAAAAAElFTkSuQmCC</data>
     </diylc.passive.MultiSectionCapacitor>
     <diylc.misc.Image>
       <name>Img2</name>
-      <alpha>44</alpha>
+      <alpha>19</alpha>
       <point x="3.1" y="10.6"/>
       <data>iVBORw0KGgoAAAANSUhEUgAAG9UAAAKjCAYAAAAHcwn5AAAC03pUWHRSYXcgcHJvZmlsZSB0eXBl
 IGV4aWYAAHjaxZVrriQnDIX/s4osAdsYm+VQPKTsIMvPgaK7p+/tGSmTSAF1QbuMgfMZKoy//pzh
@@ -9304,6 +9224,463 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <newScale>16</newScale>
     </diylc.misc.Image>
+    <diylc.shapes.Rectangle>
+      <name>Power Transformer</name>
+      <alpha>127</alpha>
+      <value></value>
+      <controlPoints>
+        <point x="3.85" y="4.3"/>
+        <point x="6.65" y="7.05"/>
+      </controlPoints>
+      <firstPoint x="3.85" y="4.3"/>
+      <secondPoint x="6.65" y="7.05"/>
+      <color hex="333333"/>
+      <borderColor hex="000000"/>
+      <borderThickness value="0.2" unit="mm"/>
+      <edgeRadius value="20.0" unit="mm"/>
+    </diylc.shapes.Rectangle>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet39</name>
+      <size value="0.5" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="5.2" y="5.65"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.misc.Label>
+      <name>L4</name>
+      <point x="5.45" y="4.5"/>
+      <text>Power Transformer 125P34A</text>
+      <font name="Tahoma" size="34" style="0"/>
+      <color hex="ffffff"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L3</name>
+      <point x="5.8" y="4.7"/>
+      <text>340-0-340VAC</text>
+      <font name="Tahoma" size="20" style="0"/>
+      <color hex="ffffff"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.tube.TubeSocket>
+      <name>V7</name>
+      <alpha>127</alpha>
+      <base>OCTAL</base>
+      <type></type>
+      <angle>0</angle>
+      <color hex="f7f7ef"/>
+      <electrodeLabels>1,2,3,4,5,6,7,8,9</electrodeLabels>
+      <mount>CHASSIS</mount>
+      <labelColor hex="acaca7"/>
+      <controlPoints>
+        <point x="4.8" y="9.2"/>
+        <point x="5.115" y="9.33"/>
+        <point x="4.93" y="9.515"/>
+        <point x="4.67" y="9.515"/>
+        <point x="4.485" y="9.33"/>
+        <point x="4.485" y="9.07"/>
+        <point x="4.67" y="8.885"/>
+        <point x="4.93" y="8.885"/>
+        <point x="5.115" y="9.07"/>
+      </controlPoints>
+    </diylc.tube.TubeSocket>
+    <diylc.tube.TubeSocket>
+      <name>V8</name>
+      <alpha>127</alpha>
+      <base>OCTAL</base>
+      <type></type>
+      <angle>0</angle>
+      <color hex="f7f7ef"/>
+      <electrodeLabels>1,2,3,4,5,6,7,8,9</electrodeLabels>
+      <mount>CHASSIS</mount>
+      <labelColor hex="acaca7"/>
+      <controlPoints>
+        <point x="6.9" y="9.2"/>
+        <point x="7.215" y="9.33"/>
+        <point x="7.03" y="9.515"/>
+        <point x="6.77" y="9.515"/>
+        <point x="6.585" y="9.33"/>
+        <point x="6.585" y="9.07"/>
+        <point x="6.77" y="8.885"/>
+        <point x="7.03" y="8.885"/>
+        <point x="7.215" y="9.07"/>
+      </controlPoints>
+    </diylc.tube.TubeSocket>
+    <diylc.tube.TubeSocket>
+      <name>V9</name>
+      <alpha>127</alpha>
+      <base>OCTAL</base>
+      <type></type>
+      <angle>0</angle>
+      <color hex="f7f7ef"/>
+      <electrodeLabels>1,2,3,4,5,6,7,8,9</electrodeLabels>
+      <mount>CHASSIS</mount>
+      <labelColor hex="acaca7"/>
+      <controlPoints>
+        <point x="9.0" y="9.115"/>
+        <point x="9.315" y="9.245"/>
+        <point x="9.13" y="9.43"/>
+        <point x="8.87" y="9.43"/>
+        <point x="8.685" y="9.245"/>
+        <point x="8.685" y="8.985"/>
+        <point x="8.87" y="8.8"/>
+        <point x="9.13" y="8.8"/>
+        <point x="9.315" y="8.985"/>
+      </controlPoints>
+    </diylc.tube.TubeSocket>
+    <diylc.tube.TubeSocket>
+      <name>V10</name>
+      <alpha>127</alpha>
+      <base>OCTAL</base>
+      <type></type>
+      <angle>0</angle>
+      <color hex="f7f7ef"/>
+      <electrodeLabels>1,2,3,4,5,6,7,8,9</electrodeLabels>
+      <mount>CHASSIS</mount>
+      <labelColor hex="acaca7"/>
+      <controlPoints>
+        <point x="11.1" y="9.115"/>
+        <point x="11.415" y="9.245"/>
+        <point x="11.23" y="9.43"/>
+        <point x="10.97" y="9.43"/>
+        <point x="10.785" y="9.245"/>
+        <point x="10.785" y="8.985"/>
+        <point x="10.97" y="8.8"/>
+        <point x="11.23" y="8.8"/>
+        <point x="11.415" y="8.985"/>
+      </controlPoints>
+    </diylc.tube.TubeSocket>
+    <diylc.passive.PotentiometerPanel>
+      <name>Volume</name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="23.2" y="0.6"/>
+        <point x="22.9" y="0.6"/>
+        <point x="22.6" y="0.6"/>
+      </controlPoints>
+      <resistance value="1.0" unit="M"/>
+      <orientation>_180</orientation>
+      <taper>LOG</taper>
+      <bodyDiameter value="1.0" unit="in"/>
+      <spacing value="0.3" unit="in"/>
+      <lugDiameter value="0.15" unit="in"/>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="808080"/>
+      <nutColor hex="cbd5db"/>
+      <waferColor hex="cd8500"/>
+      <type>ThroughHole</type>
+      <showShaft>false</showShaft>
+      <view>ShaftDown</view>
+    </diylc.passive.PotentiometerPanel>
+    <diylc.passive.PotentiometerPanel>
+      <name>Treble</name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="20.1" y="0.6"/>
+        <point x="19.8" y="0.6"/>
+        <point x="19.5" y="0.6"/>
+      </controlPoints>
+      <resistance value="250.0" unit="K"/>
+      <orientation>_180</orientation>
+      <taper>LOG</taper>
+      <bodyDiameter value="1.0" unit="in"/>
+      <spacing value="0.3" unit="in"/>
+      <lugDiameter value="0.15" unit="in"/>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="808080"/>
+      <nutColor hex="cbd5db"/>
+      <waferColor hex="cd8500"/>
+      <type>ThroughHole</type>
+      <showShaft>false</showShaft>
+      <view>ShaftDown</view>
+    </diylc.passive.PotentiometerPanel>
+    <diylc.passive.PotentiometerPanel>
+      <name>Middle</name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="18.7" y="0.6"/>
+        <point x="18.4" y="0.6"/>
+        <point x="18.1" y="0.6"/>
+      </controlPoints>
+      <resistance value="100.0" unit="K"/>
+      <orientation>_180</orientation>
+      <taper>LIN</taper>
+      <bodyDiameter value="1.0" unit="in"/>
+      <spacing value="0.3" unit="in"/>
+      <lugDiameter value="0.15" unit="in"/>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="808080"/>
+      <nutColor hex="cbd5db"/>
+      <waferColor hex="cd8500"/>
+      <type>ThroughHole</type>
+      <showShaft>false</showShaft>
+      <view>ShaftDown</view>
+    </diylc.passive.PotentiometerPanel>
+    <diylc.passive.PotentiometerPanel>
+      <name>Bass</name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="17.2" y="0.6"/>
+        <point x="16.9" y="0.6"/>
+        <point x="16.6" y="0.6"/>
+      </controlPoints>
+      <resistance value="250.0" unit="K"/>
+      <orientation>_180</orientation>
+      <taper>LOG</taper>
+      <bodyDiameter value="1.0" unit="in"/>
+      <spacing value="0.3" unit="in"/>
+      <lugDiameter value="0.15" unit="in"/>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="808080"/>
+      <nutColor hex="cbd5db"/>
+      <waferColor hex="cd8500"/>
+      <type>ThroughHole</type>
+      <showShaft>false</showShaft>
+      <view>ShaftDown</view>
+    </diylc.passive.PotentiometerPanel>
+    <diylc.passive.PotentiometerPanel>
+      <name>Reverb Send</name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="12.4" y="0.6"/>
+        <point x="12.1" y="0.6"/>
+        <point x="11.8" y="0.6"/>
+      </controlPoints>
+      <resistance value="250.0" unit="K"/>
+      <orientation>_180</orientation>
+      <taper>LOG</taper>
+      <bodyDiameter value="1.0" unit="in"/>
+      <spacing value="0.3" unit="in"/>
+      <lugDiameter value="0.15" unit="in"/>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="808080"/>
+      <nutColor hex="cbd5db"/>
+      <waferColor hex="cd8500"/>
+      <type>ThroughHole</type>
+      <showShaft>false</showShaft>
+      <view>ShaftDown</view>
+    </diylc.passive.PotentiometerPanel>
+    <diylc.passive.PotentiometerPanel>
+      <name>Reverb Return</name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="11.0" y="0.62"/>
+        <point x="10.7" y="0.62"/>
+        <point x="10.4" y="0.62"/>
+      </controlPoints>
+      <resistance value="100.0" unit="K"/>
+      <orientation>_180</orientation>
+      <taper>LIN</taper>
+      <bodyDiameter value="1.0" unit="in"/>
+      <spacing value="0.3" unit="in"/>
+      <lugDiameter value="0.15" unit="in"/>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="808080"/>
+      <nutColor hex="cbd5db"/>
+      <waferColor hex="cd8500"/>
+      <type>ThroughHole</type>
+      <showShaft>false</showShaft>
+      <view>ShaftDown</view>
+    </diylc.passive.PotentiometerPanel>
+    <diylc.passive.PotentiometerPanel>
+      <name>Level</name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="9.1" y="0.7"/>
+        <point x="8.8" y="0.7"/>
+        <point x="8.5" y="0.7"/>
+      </controlPoints>
+      <resistance value="1.0" unit="M"/>
+      <orientation>_180</orientation>
+      <taper>LOG</taper>
+      <bodyDiameter value="1.0" unit="in"/>
+      <spacing value="0.3" unit="in"/>
+      <lugDiameter value="0.15" unit="in"/>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="808080"/>
+      <nutColor hex="cbd5db"/>
+      <waferColor hex="cd8500"/>
+      <type>ThroughHole</type>
+      <showShaft>false</showShaft>
+      <view>ShaftDown</view>
+    </diylc.passive.PotentiometerPanel>
+    <diylc.electromechanical.MiniToggleSwitch>
+      <name defined-in="diylc.AbstractComponent"></name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="9.645" y="1.045"/>
+        <point x="9.645" y="1.245"/>
+        <point x="9.645" y="1.445"/>
+        <point x="9.845" y="1.045"/>
+        <point x="9.845" y="1.245"/>
+        <point x="9.845" y="1.445"/>
+      </controlPoints>
+      <name>SW1</name>
+      <switchType>DPDT</switchType>
+      <orientation>VERTICAL</orientation>
+      <spacing value="0.2" unit="in"/>
+      <bodyColor hex="3299cc"/>
+      <borderColor hex="236b8e"/>
+    </diylc.electromechanical.MiniToggleSwitch>
+    <diylc.electromechanical.MiniToggleSwitch>
+      <name defined-in="diylc.AbstractComponent"></name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="12.995" y="1.035"/>
+        <point x="12.995" y="1.235"/>
+        <point x="12.995" y="1.435"/>
+        <point x="13.195" y="1.035"/>
+        <point x="13.195" y="1.235"/>
+        <point x="13.195" y="1.435"/>
+      </controlPoints>
+      <name>SW2</name>
+      <switchType>DPDT</switchType>
+      <orientation>VERTICAL</orientation>
+      <spacing value="0.2" unit="in"/>
+      <bodyColor hex="3299cc"/>
+      <borderColor hex="236b8e"/>
+    </diylc.electromechanical.MiniToggleSwitch>
+    <diylc.electromechanical.MiniToggleSwitch>
+      <name defined-in="diylc.AbstractComponent"></name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="21.85" y="1.065"/>
+        <point x="21.85" y="1.265"/>
+        <point x="21.85" y="1.465"/>
+        <point x="22.05" y="1.065"/>
+        <point x="22.05" y="1.265"/>
+        <point x="22.05" y="1.465"/>
+      </controlPoints>
+      <name>SW3</name>
+      <switchType>DPDT</switchType>
+      <orientation>VERTICAL</orientation>
+      <spacing value="0.2" unit="in"/>
+      <bodyColor hex="3299cc"/>
+      <borderColor hex="236b8e"/>
+    </diylc.electromechanical.MiniToggleSwitch>
+    <diylc.electromechanical.MiniToggleSwitch>
+      <name defined-in="diylc.AbstractComponent"></name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="21.28" y="1.06"/>
+        <point x="21.28" y="1.26"/>
+        <point x="21.28" y="1.46"/>
+        <point x="21.48" y="1.06"/>
+        <point x="21.48" y="1.26"/>
+        <point x="21.48" y="1.46"/>
+      </controlPoints>
+      <name>SW4</name>
+      <switchType>DPDT</switchType>
+      <orientation>VERTICAL</orientation>
+      <spacing value="0.2" unit="in"/>
+      <bodyColor hex="3299cc"/>
+      <borderColor hex="236b8e"/>
+    </diylc.electromechanical.MiniToggleSwitch>
+    <diylc.electromechanical.MiniToggleSwitch>
+      <name defined-in="diylc.AbstractComponent"></name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="20.74" y="1.06"/>
+        <point x="20.74" y="1.26"/>
+        <point x="20.74" y="1.46"/>
+        <point x="20.94" y="1.06"/>
+        <point x="20.94" y="1.26"/>
+        <point x="20.94" y="1.46"/>
+      </controlPoints>
+      <name>SW5</name>
+      <switchType>DPDT</switchType>
+      <orientation>VERTICAL</orientation>
+      <spacing value="0.2" unit="in"/>
+      <bodyColor hex="3299cc"/>
+      <borderColor hex="236b8e"/>
+    </diylc.electromechanical.MiniToggleSwitch>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet21</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="19.41" y="3.3"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet22</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="20.18" y="3.29"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.passive.Resistor>
+      <name>R1</name>
+      <alpha>127</alpha>
+      <length value="9.0" unit="mm"/>
+      <width value="3.2" unit="mm"/>
+      <points>
+        <point x="20.155" y="3.305"/>
+        <point x="19.41" y="3.305"/>
+        <point x="19.78" y="3.305"/>
+      </points>
+      <bodyColor hex="e0c68b"/>
+      <borderColor hex="a59268"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <value value="100.0" unit="K"/>
+      <power>HALF</power>
+      <powerNew value="0.5" unit="W"/>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet23</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="20.89" y="3.6"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet24</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="21.63" y="3.3"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet25</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="21.63" y="4.41"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet26</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="21.39" y="4.28"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet27</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="20.86" y="3.95"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
   </components>
   <groups/>
   <lockedLayers/>
