@@ -9201,13 +9201,13 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <alpha>127</alpha>
       <value></value>
       <controlPoints>
-        <point x="3.99" y="0.84"/>
-        <point x="4.31" y="1.0"/>
-        <point x="3.99" y="0.94"/>
-        <point x="4.23" y="1.06"/>
+        <point x="3.95" y="1.62"/>
+        <point x="3.63" y="1.46"/>
+        <point x="3.95" y="1.52"/>
+        <point x="3.71" y="1.4"/>
       </controlPoints>
       <orientation>DEFAULT</orientation>
-      <angle>0</angle>
+      <angle>180</angle>
     </diylc.electromechanical.PilotLampHolder>
     <diylc.passive.RadialFilmCapacitor>
       <name>C33</name>
