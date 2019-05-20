@@ -16539,29 +16539,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <point x="17.48" y="7.3"/>
       <value></value>
     </diylc.connectivity.Eyelet>
-    <diylc.passive.RadialFilmCapacitor>
-      <name>C18</name>
-      <alpha>127</alpha>
-      <length value="1.16" unit="in"/>
-      <width value="0.65" unit="in"/>
-      <points>
-        <point x="17.48" y="8.795"/>
-        <point x="17.48" y="7.365"/>
-        <point x="17.48" y="8.08"/>
-      </points>
-      <bodyColor hex="ff4500"/>
-      <borderColor hex="381d02"/>
-      <labelColor hex="000000"/>
-      <leadColor hex="cccccc"/>
-      <display>VALUE</display>
-      <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
-      <moveLabel>false</moveLabel>
-      <pinSpacing value="0.1" unit="in"/>
-      <value value="0.1" unit="uF"/>
-      <voltage>_63V</voltage>
-      <voltageNew value="600.0" unit="V"/>
-    </diylc.passive.RadialFilmCapacitor>
     <diylc.connectivity.HookupWire>
       <name>W157</name>
       <alpha>127</alpha>
@@ -16611,29 +16588,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <point x="17.04" y="7.91"/>
       <value></value>
     </diylc.connectivity.Eyelet>
-    <diylc.passive.Resistor>
-      <name>R22</name>
-      <alpha>127</alpha>
-      <length value="9.0" unit="mm"/>
-      <width value="3.2" unit="mm"/>
-      <points>
-        <point x="17.06" y="7.915"/>
-        <point x="17.485" y="7.27"/>
-        <point x="17.95" y="6.81"/>
-      </points>
-      <bodyColor hex="e0c68b"/>
-      <borderColor hex="a59268"/>
-      <labelColor hex="000000"/>
-      <leadColor hex="cccccc"/>
-      <display>VALUE</display>
-      <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
-      <moveLabel>false</moveLabel>
-      <value value="390.0" unit="R"/>
-      <power>HALF</power>
-      <colorCode>_5_BAND</colorCode>
-      <shape>Standard</shape>
-    </diylc.passive.Resistor>
     <diylc.connectivity.Eyelet>
       <name>Eyelet146</name>
       <size value="0.2" unit="in"/>
@@ -16673,31 +16627,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <voltage>_63V</voltage>
       <voltageNew value="600.0" unit="V"/>
     </diylc.passive.RadialFilmCapacitor>
-    <diylc.passive.AxialElectrolyticCapacitor>
-      <name>C28</name>
-      <alpha>127</alpha>
-      <length value="0.53" unit="in"/>
-      <width value="0.26" unit="in"/>
-      <points>
-        <point x="17.05" y="7.05"/>
-        <point x="17.04" y="7.89"/>
-        <point x="17.045" y="7.47"/>
-      </points>
-      <bodyColor hex="6666ff"/>
-      <borderColor hex="4a4c90"/>
-      <labelColor hex="ffff00"/>
-      <leadColor hex="cccccc"/>
-      <display>VALUE</display>
-      <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
-      <moveLabel>false</moveLabel>
-      <value value="1.0" unit="uF"/>
-      <voltage>_63V</voltage>
-      <voltageNew value="25.0" unit="V"/>
-      <markerColor hex="333333"/>
-      <tickColor hex="ffffff"/>
-      <polarized>true</polarized>
-    </diylc.passive.AxialElectrolyticCapacitor>
     <diylc.connectivity.Eyelet>
       <name>Eyelet148</name>
       <size value="0.2" unit="in"/>
@@ -16985,7 +16914,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
     <diylc.misc.Label>
       <name>L17</name>
       <point x="16.76" y="6.98"/>
-      <text>2KL Trim</text>
+      <text>2KL Presence</text>
       <font name="Square721BT-Roman" size="14" style="0"/>
       <color hex="ffffff"/>
       <center>false</center>
@@ -16993,6 +16922,95 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>DEFAULT</orientation>
     </diylc.misc.Label>
+    <diylc.connectivity.HookupWire>
+      <name>W158</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="16.61" y="7.05"/>
+        <point x="17.11" y="7.05"/>
+        <point x="17.48" y="8.42"/>
+        <point x="18.35" y="8.81"/>
+      </controlPoints2>
+      <color hex="00ff00"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.passive.RadialFilmCapacitor>
+      <name>C18</name>
+      <alpha>127</alpha>
+      <length value="1.16" unit="in"/>
+      <width value="0.65" unit="in"/>
+      <points>
+        <point x="17.48" y="8.795"/>
+        <point x="17.48" y="7.365"/>
+        <point x="17.48" y="8.08"/>
+      </points>
+      <bodyColor hex="ff4500"/>
+      <borderColor hex="381d02"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <pinSpacing value="0.1" unit="in"/>
+      <value value="0.1" unit="uF"/>
+      <voltage>_63V</voltage>
+      <voltageNew value="600.0" unit="V"/>
+    </diylc.passive.RadialFilmCapacitor>
+    <diylc.passive.Resistor>
+      <name>R22</name>
+      <alpha>127</alpha>
+      <length value="9.0" unit="mm"/>
+      <width value="3.2" unit="mm"/>
+      <points>
+        <point x="17.06" y="7.915"/>
+        <point x="17.485" y="7.27"/>
+        <point x="17.95" y="6.81"/>
+      </points>
+      <bodyColor hex="e0c68b"/>
+      <borderColor hex="a59268"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <value value="390.0" unit="R"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.passive.AxialElectrolyticCapacitor>
+      <name>C28</name>
+      <alpha>127</alpha>
+      <length value="0.53" unit="in"/>
+      <width value="0.26" unit="in"/>
+      <points>
+        <point x="17.05" y="7.05"/>
+        <point x="17.04" y="7.89"/>
+        <point x="17.045" y="7.47"/>
+      </points>
+      <bodyColor hex="6666ff"/>
+      <borderColor hex="4a4c90"/>
+      <labelColor hex="ffff00"/>
+      <leadColor hex="cccccc"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <value value="1.0" unit="uF"/>
+      <voltage>_63V</voltage>
+      <voltageNew value="25.0" unit="V"/>
+      <markerColor hex="333333"/>
+      <tickColor hex="ffffff"/>
+      <polarized>true</polarized>
+    </diylc.passive.AxialElectrolyticCapacitor>
   </components>
   <groups>
     <set>
