@@ -17862,6 +17862,235 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <color hex="000000"/>
       <point x="6.1" y="9.9"/>
     </diylc.connectivity.Dot>
+    <diylc.connectivity.HookupWire>
+      <name>W174</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="3.2" y="7.1"/>
+        <point x="3.7" y="6.8"/>
+        <point x="4.0" y="6.3"/>
+        <point x="5.1" y="5.7"/>
+      </controlPoints2>
+      <color hex="663300"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_18</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.SolderPad>
+      <name>Pad14</name>
+      <size value="0.25" unit="in"/>
+      <color hex="000000"/>
+      <point x="3.2" y="7.1"/>
+      <type>ROUND</type>
+      <holeSize value="0.8" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.SolderPad>
+    <diylc.connectivity.HookupWire>
+      <name>W175</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="3.5" y="7.5"/>
+        <point x="4.0" y="7.2"/>
+        <point x="4.3" y="6.7"/>
+        <point x="5.2" y="5.7"/>
+      </controlPoints2>
+      <color hex="000000"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_18</gauge>
+      <striped>true</striped>
+      <stripeColor hex="ffffff"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W176</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="3.5" y="7.5"/>
+        <point x="4.0" y="7.4"/>
+        <point x="4.3" y="6.9"/>
+        <point x="5.2" y="5.7"/>
+      </controlPoints2>
+      <color hex="663300"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_18</gauge>
+      <striped>true</striped>
+      <stripeColor hex="ffffff"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.SolderPad>
+      <name>Pad15</name>
+      <size value="0.25" unit="in"/>
+      <color hex="000000"/>
+      <point x="3.54" y="7.5"/>
+      <type>ROUND</type>
+      <holeSize value="0.8" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.SolderPad>
+    <diylc.connectivity.HookupWire>
+      <name>W177</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="3.5" y="7.5"/>
+        <point x="1.9" y="9.9"/>
+        <point x="2.8" y="11.4"/>
+        <point x="5.7" y="11.7"/>
+      </controlPoints2>
+      <color hex="663300"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_18</gauge>
+      <striped>true</striped>
+      <stripeColor hex="ffffff"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.misc.Label>
+      <name>L19</name>
+      <point x="3.33" y="7.3"/>
+      <text>120v</text>
+      <font name="Square721BT-Roman" size="14" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.connectivity.HookupWire>
+      <name>W178</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="5.2" y="5.6"/>
+        <point x="5.7" y="5.6"/>
+        <point x="7.2" y="6.6"/>
+        <point x="7.3" y="7.3"/>
+      </controlPoints2>
+      <color hex="ff9900"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_18</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.SolderPad>
+      <name>Pad16</name>
+      <size value="0.25" unit="in"/>
+      <color hex="000000"/>
+      <point x="3.34" y="9.5"/>
+      <type>ROUND</type>
+      <holeSize value="0.8" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.SolderPad>
+    <diylc.misc.GroundSymbol>
+      <name>GND7</name>
+      <point x="3.34" y="9.65"/>
+      <color hex="000000"/>
+      <size value="0.15" unit="in"/>
+      <type>DEFAULT</type>
+    </diylc.misc.GroundSymbol>
+    <diylc.connectivity.HookupWire>
+      <name>W179</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="3.4" y="9.5"/>
+        <point x="3.9" y="9.5"/>
+        <point x="3.9" y="10.5"/>
+        <point x="6.1" y="11.3"/>
+      </controlPoints2>
+      <color hex="00ff00"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W180</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="5.8" y="11.6"/>
+        <point x="5.2" y="11.2"/>
+      </controlPoints2>
+      <color hex="ffffff"/>
+      <pointCount>TWO</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_18</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W181</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="6.3" y="11.6"/>
+        <point x="5.2" y="11.2"/>
+      </controlPoints2>
+      <color hex="000000"/>
+      <pointCount>TWO</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_18</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W182</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="6.0" y="11.3"/>
+        <point x="5.2" y="11.2"/>
+      </controlPoints2>
+      <color hex="00ff00"/>
+      <pointCount>TWO</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_18</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.shapes.Polygon>
+      <name>POLY5</name>
+      <alpha>127</alpha>
+      <value></value>
+      <controlPoints>
+        <point x="4.895" y="11.01"/>
+        <point x="4.69" y="11.135"/>
+        <point x="5.14" y="11.295"/>
+        <point x="5.265" y="11.05"/>
+      </controlPoints>
+      <firstPoint x="4.69" y="11.01"/>
+      <secondPoint x="4.895" y="11.135"/>
+      <color hex="ff9933"/>
+      <borderColor hex="000000"/>
+      <borderThickness value="0.2" unit="mm"/>
+      <pointCount>_4</pointCount>
+    </diylc.shapes.Polygon>
+    <diylc.misc.Label>
+      <name>L20</name>
+      <point x="4.955" y="11.125"/>
+      <text>From Wall</text>
+      <font name="Square721BT-Roman" size="14" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
   </components>
   <groups>
     <set>
