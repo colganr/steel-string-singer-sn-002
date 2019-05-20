@@ -16185,6 +16185,42 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <voltage>_63V</voltage>
       <voltageNew value="600.0" unit="V"/>
     </diylc.passive.RadialFilmCapacitor>
+    <diylc.connectivity.Jumper>
+      <name>J84</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="23.74" y="4.64"/>
+        <point x="23.51" y="4.67"/>
+        <point x="23.625" y="4.655"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="0000ff"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.connectivity.Jumper>
+      <name>J85</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="23.83" y="4.79"/>
+        <point x="23.67" y="4.92"/>
+        <point x="23.75" y="4.855"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="0000ff"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
   </components>
   <groups>
     <set>
