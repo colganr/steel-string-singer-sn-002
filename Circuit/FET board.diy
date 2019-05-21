@@ -539,6 +539,24 @@
       <colorCode>_5_BAND</colorCode>
       <shape>Standard</shape>
     </diylc.passive.Resistor>
+    <diylc.connectivity.Jumper>
+      <name>J6</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="1.5" y="0.5"/>
+        <point x="1.125" y="1.0"/>
+        <point x="1.37" y="0.685"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
   </components>
   <groups/>
   <lockedLayers/>
