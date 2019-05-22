@@ -20147,6 +20147,74 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <moveLabel>false</moveLabel>
       <style>SOLID</style>
     </diylc.connectivity.Jumper>
+    <diylc.misc.WrapLabel>
+      <name>L24</name>
+      <controlPoints>
+        <point x="0.25" y="0.47"/>
+        <point x="7.665" y="1.91"/>
+      </controlPoints>
+      <firstPoint x="0.25" y="0.47"/>
+      <secondPoint x="7.665" y="1.91"/>
+      <font name="Dialog" size="34" style="1"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <value>Assume this layout is outdated. Please download the latest from https://github.com/colganr/steel-string-singer-sn-002/tree/master/Circuit</value>
+    </diylc.misc.WrapLabel>
+    <diylc.misc.Label>
+      <name>L33</name>
+      <point x="1.08" y="0.24"/>
+      <text>NOTES</text>
+      <font name="Square721BT-Roman" size="100" style="0"/>
+      <color hex="ff0000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L32</name>
+      <point x="0.3" y="1.9"/>
+      <text>V1B LNFB wiring is following the hand drawn schematic</text>
+      <font name="Square721BT-Roman" size="34" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L34</name>
+      <point x="0.3" y="2.2"/>
+      <text>High filter cap changed from .003uF to .002uF like SSS #004</text>
+      <font name="Square721BT-Roman" size="34" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L35</name>
+      <point x="0.3" y="2.5"/>
+      <text>Bias voltage divider changed to 100k to accomodate HT tap</text>
+      <font name="Square721BT-Roman" size="34" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L36</name>
+      <point x="0.3" y="2.8"/>
+      <text>Bias voltage divider changed to 100k to accomodate HT tap</text>
+      <font name="Square721BT-Roman" size="34" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
   </components>
   <groups>
     <set>
