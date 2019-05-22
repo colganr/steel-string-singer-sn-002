@@ -2410,7 +2410,7 @@ AAAAAAAAlur/AW6cLsTHfMtQAAAAAElFTkSuQmCC</data>
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.AxialElectrolyticCapacitor>
-      <name>C10</name>
+      <name>25v</name>
       <alpha>127</alpha>
       <length value="0.53" unit="in"/>
       <width value="0.26" unit="in"/>
@@ -2423,7 +2423,7 @@ AAAAAAAAlur/AW6cLsTHfMtQAAAAAElFTkSuQmCC</data>
       <borderColor hex="4a4c90"/>
       <labelColor hex="ffff00"/>
       <leadColor hex="cccccc"/>
-      <display>VALUE</display>
+      <display>BOTH</display>
       <flipStanding>false</flipStanding>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
@@ -2705,7 +2705,7 @@ AAAAAAAAlur/AW6cLsTHfMtQAAAAAElFTkSuQmCC</data>
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.MultiSectionCapacitor>
-      <name>C29</name>
+      <name>C-EC20X4-475</name>
       <alpha>127</alpha>
       <value>
         <org.diylc.core.measures.Capacitance value="20.0" unit="uF"/>
@@ -6905,7 +6905,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <voltageNew value="600.0" unit="V"/>
     </diylc.passive.RadialFilmCapacitor>
     <diylc.passive.AxialElectrolyticCapacitor>
-      <name>C4</name>
+      <name>25v</name>
       <alpha>127</alpha>
       <length value="0.53" unit="in"/>
       <width value="0.26" unit="in"/>
@@ -6918,7 +6918,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <borderColor hex="4a4c90"/>
       <labelColor hex="ffff00"/>
       <leadColor hex="cccccc"/>
-      <display>VALUE</display>
+      <display>BOTH</display>
       <flipStanding>false</flipStanding>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
@@ -6978,7 +6978,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.AxialElectrolyticCapacitor>
-      <name>C4</name>
+      <name>25v</name>
       <alpha>127</alpha>
       <length value="0.53" unit="in"/>
       <width value="0.26" unit="in"/>
@@ -6991,7 +6991,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <borderColor hex="4a4c90"/>
       <labelColor hex="ffff00"/>
       <leadColor hex="cccccc"/>
-      <display>VALUE</display>
+      <display>BOTH</display>
       <flipStanding>false</flipStanding>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
@@ -7623,7 +7623,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <stripeColor hex="ffff00"/>
     </diylc.connectivity.HookupWire>
     <diylc.passive.AxialElectrolyticCapacitor>
-      <name>C4</name>
+      <name>25v</name>
       <alpha>127</alpha>
       <length value="0.53" unit="in"/>
       <width value="0.26" unit="in"/>
@@ -7636,7 +7636,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <borderColor hex="4a4c90"/>
       <labelColor hex="ffff00"/>
       <leadColor hex="cccccc"/>
-      <display>VALUE</display>
+      <display>BOTH</display>
       <flipStanding>false</flipStanding>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
@@ -14005,7 +14005,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.passive.AxialElectrolyticCapacitor>
-      <name>C15</name>
+      <name>25v</name>
       <alpha>127</alpha>
       <length value="0.53" unit="in"/>
       <width value="0.26" unit="in"/>
@@ -14018,7 +14018,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <borderColor hex="4a4c90"/>
       <labelColor hex="ffff00"/>
       <leadColor hex="cccccc"/>
-      <display>VALUE</display>
+      <display>BOTH</display>
       <flipStanding>false</flipStanding>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
@@ -15856,7 +15856,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.AxialElectrolyticCapacitor>
-      <name>C13</name>
+      <name>25v</name>
       <alpha>127</alpha>
       <length value="0.53" unit="in"/>
       <width value="0.26" unit="in"/>
@@ -15869,7 +15869,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <borderColor hex="4a4c90"/>
       <labelColor hex="ffff00"/>
       <leadColor hex="cccccc"/>
-      <display>VALUE</display>
+      <display>BOTH</display>
       <flipStanding>false</flipStanding>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
@@ -16119,7 +16119,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.passive.AxialElectrolyticCapacitor>
-      <name>C28</name>
+      <name>25v</name>
       <alpha>127</alpha>
       <length value="0.53" unit="in"/>
       <width value="0.26" unit="in"/>
@@ -16132,7 +16132,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <borderColor hex="4a4c90"/>
       <labelColor hex="ffff00"/>
       <leadColor hex="cccccc"/>
-      <display>VALUE</display>
+      <display>BOTH</display>
       <flipStanding>false</flipStanding>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
@@ -17873,7 +17873,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.passive.AxialElectrolyticCapacitor>
-      <name>C35</name>
+      <name>100v</name>
       <alpha>127</alpha>
       <length value="0.5" unit="in"/>
       <width value="0.2" unit="in"/>
@@ -17886,7 +17886,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <borderColor hex="4a4c90"/>
       <labelColor hex="ffff00"/>
       <leadColor hex="cccccc"/>
-      <display>VALUE</display>
+      <display>BOTH</display>
       <flipStanding>false</flipStanding>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
@@ -18004,7 +18004,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.passive.AxialElectrolyticCapacitor>
-      <name>C37</name>
+      <name>100v</name>
       <alpha>127</alpha>
       <length value="0.5" unit="in"/>
       <width value="0.2" unit="in"/>
@@ -18017,7 +18017,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <borderColor hex="4a4c90"/>
       <labelColor hex="ffff00"/>
       <leadColor hex="cccccc"/>
-      <display>VALUE</display>
+      <display>BOTH</display>
       <flipStanding>false</flipStanding>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
@@ -18217,7 +18217,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <edgeRadius value="0.0" unit="mm"/>
     </diylc.shapes.Rectangle>
     <diylc.passive.AxialElectrolyticCapacitor>
-      <name>C38</name>
+      <name>35v</name>
       <alpha>127</alpha>
       <length value="0.85" unit="in"/>
       <width value="0.32" unit="in"/>
@@ -18230,7 +18230,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <borderColor hex="4a4c90"/>
       <labelColor hex="ffff00"/>
       <leadColor hex="cccccc"/>
-      <display>VALUE</display>
+      <display>BOTH</display>
       <flipStanding>false</flipStanding>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
@@ -18569,7 +18569,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.AxialElectrolyticCapacitor>
-      <name>C4</name>
+      <name>25v</name>
       <alpha>127</alpha>
       <length value="0.53" unit="in"/>
       <width value="0.26" unit="in"/>
@@ -18582,7 +18582,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <borderColor hex="4a4c90"/>
       <labelColor hex="ffff00"/>
       <leadColor hex="cccccc"/>
-      <display>VALUE</display>
+      <display>BOTH</display>
       <flipStanding>false</flipStanding>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
@@ -19845,6 +19845,94 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <colorCode>_5_BAND</colorCode>
       <shape>Standard</shape>
     </diylc.passive.Resistor>
+    <diylc.misc.Label>
+      <name>L24</name>
+      <point x="0.65" y="7.585"/>
+      <text>500v</text>
+      <font name="Dialog" size="14" style="0"/>
+      <color hex="ffcc00"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_90</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L25</name>
+      <point x="9.18" y="4.5"/>
+      <text>500v</text>
+      <font name="Dialog" size="14" style="0"/>
+      <color hex="ffcc00"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L26</name>
+      <point x="10.08" y="4.52"/>
+      <text>500v</text>
+      <font name="Dialog" size="14" style="0"/>
+      <color hex="ffcc00"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L27</name>
+      <point x="11.0" y="4.52"/>
+      <text>350v</text>
+      <font name="Dialog" size="14" style="0"/>
+      <color hex="ffcc00"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L28</name>
+      <point x="12.0" y="4.53"/>
+      <text>350v</text>
+      <font name="Dialog" size="14" style="0"/>
+      <color hex="ffcc00"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L29</name>
+      <point x="12.86" y="4.48"/>
+      <text>500v</text>
+      <font name="Dialog" size="14" style="0"/>
+      <color hex="ffcc00"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L30</name>
+      <point x="13.62" y="4.48"/>
+      <text>500v</text>
+      <font name="Dialog" size="14" style="0"/>
+      <color hex="ffcc00"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L31</name>
+      <point x="14.35" y="4.5"/>
+      <text>500v</text>
+      <font name="Dialog" size="14" style="0"/>
+      <color hex="ffcc00"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
   </components>
   <groups>
     <set>
