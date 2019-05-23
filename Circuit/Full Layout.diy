@@ -17476,7 +17476,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <color hex="000000"/>
       <point x="3.2" y="7.1"/>
       <type>ROUND</type>
-      <holeSize value="0.8" unit="mm"/>
+      <holeSize value="0.0" unit="mm"/>
       <layer>_1</layer>
     </diylc.connectivity.SolderPad>
     <diylc.connectivity.HookupWire>
@@ -17521,7 +17521,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <color hex="000000"/>
       <point x="3.54" y="7.5"/>
       <type>ROUND</type>
-      <holeSize value="0.8" unit="mm"/>
+      <holeSize value="0.0" unit="mm"/>
       <layer>_1</layer>
     </diylc.connectivity.SolderPad>
     <diylc.connectivity.HookupWire>
