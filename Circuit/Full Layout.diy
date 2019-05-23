@@ -20215,7 +20215,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
     <diylc.misc.Label>
       <name>L35</name>
       <point x="0.3" y="3.1"/>
-      <text>Bias voltage divider changed to 100k to accomodate HT tap</text>
+      <text>Bias utilizes the PT 60v tap</text>
       <font name="Square721BT-Roman" size="34" style="0"/>
       <color hex="000000"/>
       <center>false</center>
