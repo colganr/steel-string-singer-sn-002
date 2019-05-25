@@ -16039,14 +16039,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <colorCode>_5_BAND</colorCode>
       <shape>Standard</shape>
     </diylc.passive.Resistor>
-    <diylc.connectivity.Eyelet>
-      <name>Eyelet148</name>
-      <size value="0.2" unit="in"/>
-      <holeSize value="0.1" unit="in"/>
-      <color hex="c3e4ed"/>
-      <point x="18.895" y="7.09"/>
-      <value></value>
-    </diylc.connectivity.Eyelet>
     <diylc.passive.RadialFilmCapacitor>
       <name>C20</name>
       <alpha>127</alpha>
