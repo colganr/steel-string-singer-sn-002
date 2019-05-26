@@ -16173,8 +16173,8 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
         <point x="17.01" y="9.55"/>
         <point x="15.925" y="9.47"/>
       </points>
-      <bodyColor hex="e0c68b"/>
-      <borderColor hex="a59268"/>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
       <labelColor hex="000000"/>
       <leadColor hex="cccccc"/>
       <display>VALUE</display>
@@ -16770,8 +16770,8 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
         <point x="16.57" y="8.605"/>
         <point x="16.885" y="8.955"/>
       </points>
-      <bodyColor hex="e0c68b"/>
-      <borderColor hex="a59268"/>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
       <labelColor hex="000000"/>
       <leadColor hex="cccccc"/>
       <display>VALUE</display>
@@ -20116,6 +20116,12 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
       <point x="22.2" y="7.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot78</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="28.0" y="2.8"/>
     </diylc.connectivity.Dot>
   </components>
   <groups>
