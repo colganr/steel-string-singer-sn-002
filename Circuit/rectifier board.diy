@@ -291,7 +291,7 @@
       <flipStanding>false</flipStanding>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
-      <value value="1.0" unit="K"/>
+      <value value="3.3" unit="K"/>
       <power>HALF</power>
       <powerNew value="3.0" unit="W"/>
       <colorCode>_5_BAND</colorCode>
@@ -333,9 +333,9 @@
       <flipStanding>false</flipStanding>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
-      <value value="100.0" unit="uF"/>
+      <value value="10.0" unit="uF"/>
       <voltage>_63V</voltage>
-      <voltageNew value="100.0" unit="V"/>
+      <voltageNew value="450.0" unit="V"/>
       <markerColor hex="333333"/>
       <tickColor hex="ffffff"/>
       <polarized>true</polarized>
