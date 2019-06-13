@@ -15810,28 +15810,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <point x="15.68" y="8.6"/>
       <value></value>
     </diylc.connectivity.Eyelet>
-    <diylc.passive.RadialCeramicDiskCapacitor>
-      <name>C19</name>
-      <alpha>127</alpha>
-      <length value="0.25" unit="in"/>
-      <width value="0.125" unit="in"/>
-      <points>
-        <point x="15.675" y="8.585"/>
-        <point x="16.525" y="8.585"/>
-        <point x="16.11" y="8.585"/>
-      </points>
-      <bodyColor hex="f0e68c"/>
-      <borderColor hex="a8a162"/>
-      <labelColor hex="000000"/>
-      <leadColor hex="cccccc"/>
-      <display>VALUE</display>
-      <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
-      <moveLabel>false</moveLabel>
-      <pinSpacing value="0.1" unit="in"/>
-      <value value="68.0" unit="pF"/>
-      <voltage>_63V</voltage>
-    </diylc.passive.RadialCeramicDiskCapacitor>
     <diylc.passive.RadialFilmCapacitor>
       <name>C18</name>
       <alpha>127</alpha>
@@ -21119,6 +21097,29 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <horizontalAlignment>CENTER</horizontalAlignment>
       <value>Switchcraft X3F</value>
     </diylc.misc.WrapLabel>
+    <diylc.passive.RadialCeramicDiskCapacitor>
+      <name>C10</name>
+      <alpha>127</alpha>
+      <length value="0.5" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="16.515" y="8.61"/>
+        <point x="15.71" y="8.61"/>
+        <point x="16.115" y="8.61"/>
+      </points>
+      <bodyColor hex="333333"/>
+      <borderColor hex="cccccc"/>
+      <labelColor hex="ffffff"/>
+      <leadColor hex="cccccc"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <pinSpacing value="0.1" unit="in"/>
+      <value value="68.0" unit="pF"/>
+      <voltage>_63V</voltage>
+      <voltageNew value="500.0"/>
+    </diylc.passive.RadialCeramicDiskCapacitor>
   </components>
   <groups>
     <set>
