@@ -10045,7 +10045,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <flipStanding>false</flipStanding>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
-      <value value="3.3" unit="K"/>
+      <value value="4.7" unit="K"/>
       <power>HALF</power>
       <powerNew value="3.0" unit="W"/>
       <colorCode>_5_BAND</colorCode>
@@ -10098,28 +10098,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <striped>true</striped>
       <stripeColor hex="ffffff"/>
     </diylc.connectivity.HookupWire>
-    <diylc.passive.PotentiometerPanel>
-      <name>Bias</name>
-      <alpha>127</alpha>
-      <controlPoints>
-        <point x="10.47" y="7.43"/>
-        <point x="10.17" y="7.43"/>
-        <point x="9.87" y="7.43"/>
-      </controlPoints>
-      <resistance value="10.0" unit="K"/>
-      <orientation>_180</orientation>
-      <taper>LIN</taper>
-      <bodyDiameter value="1.0" unit="in"/>
-      <spacing value="0.3" unit="in"/>
-      <lugDiameter value="0.15" unit="in"/>
-      <bodyColor hex="c0c0c0"/>
-      <borderColor hex="808080"/>
-      <nutColor hex="cbd5db"/>
-      <waferColor hex="cd8500"/>
-      <type>ThroughHole</type>
-      <showShaft>true</showShaft>
-      <view>ShaftUp</view>
-    </diylc.passive.PotentiometerPanel>
     <diylc.boards.BlankBoard>
       <name>Board4</name>
       <alpha>127</alpha>
@@ -12463,36 +12441,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
     </diylc.connectivity.HookupWire>
-    <diylc.passive.Resistor>
-      <name>R55</name>
-      <alpha>127</alpha>
-      <length value="9.0" unit="mm"/>
-      <width value="3.2" unit="mm"/>
-      <points>
-        <point x="9.865" y="7.43"/>
-        <point x="9.83" y="8.18"/>
-        <point x="9.845" y="7.805"/>
-      </points>
-      <bodyColor hex="82cffd"/>
-      <borderColor hex="5b90b1"/>
-      <labelColor hex="000000"/>
-      <leadColor hex="cccccc"/>
-      <display>VALUE</display>
-      <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
-      <moveLabel>false</moveLabel>
-      <value value="22.0" unit="K"/>
-      <power>HALF</power>
-      <powerNew value="0.5" unit="W"/>
-      <colorCode>_5_BAND</colorCode>
-      <shape>Standard</shape>
-    </diylc.passive.Resistor>
-    <diylc.connectivity.Dot>
-      <name>Dot40</name>
-      <size value="3.0" unit="mm"/>
-      <color hex="000000"/>
-      <point x="9.84" y="8.19"/>
-    </diylc.connectivity.Dot>
     <diylc.connectivity.Jumper>
       <name>J61</name>
       <alpha>127</alpha>
@@ -12614,24 +12562,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <stripe2>true</stripe2>
     </diylc.connectivity.TwistedWire>
     <diylc.connectivity.HookupWire>
-      <name>W102</name>
-      <alpha>127</alpha>
-      <controlPoints2>
-        <point x="7.4" y="7.27"/>
-        <point x="7.9" y="7.27"/>
-        <point x="7.9" y="8.27"/>
-        <point x="9.85" y="8.21"/>
-      </controlPoints2>
-      <color hex="000000"/>
-      <pointCount>FOUR</pointCount>
-      <style>SOLID</style>
-      <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
-      <gauge>_18</gauge>
-      <striped>false</striped>
-      <stripeColor hex="ffff00"/>
-    </diylc.connectivity.HookupWire>
-    <diylc.connectivity.HookupWire>
       <name>W56</name>
       <alpha>127</alpha>
       <controlPoints2>
@@ -12679,8 +12609,8 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <controlPoints2>
         <point x="1.26" y="8.545"/>
         <point x="1.21" y="10.62"/>
-        <point x="9.13" y="6.15"/>
-        <point x="10.46" y="7.42"/>
+        <point x="5.23" y="6.37"/>
+        <point x="14.605" y="8.33"/>
       </controlPoints2>
       <color hex="ffcc33"/>
       <pointCount>FOUR</pointCount>
@@ -15991,24 +15921,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <colorCode>_5_BAND</colorCode>
       <shape>Standard</shape>
     </diylc.passive.Resistor>
-    <diylc.connectivity.HookupWire>
-      <name>W98</name>
-      <alpha>127</alpha>
-      <controlPoints2>
-        <point x="10.18" y="7.44"/>
-        <point x="9.9" y="7.0"/>
-        <point x="13.6" y="7.3"/>
-        <point x="14.6" y="8.4"/>
-      </controlPoints2>
-      <color hex="cccccc"/>
-      <pointCount>FOUR</pointCount>
-      <style>SOLID</style>
-      <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
-      <gauge>_22</gauge>
-      <striped>true</striped>
-      <stripeColor hex="333333"/>
-    </diylc.connectivity.HookupWire>
     <diylc.connectivity.Eyelet>
       <name>Eyelet158</name>
       <size value="0.2" unit="in"/>
@@ -19341,7 +19253,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
     <diylc.misc.Label>
       <name>L32</name>
       <point x="0.3" y="1.9"/>
-      <text>V1B LNFB wiring is following the hand drawn schematic (correction from other layouts)</text>
+      <text>Verified layout except FET volume is too low. Fixing soon</text>
       <font name="Dialog" size="34" style="0"/>
       <color hex="000000"/>
       <center>false</center>
@@ -21120,131 +21032,131 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
   </components>
   <groups>
     <set>
-      <diylc.connectivity.Eyelet reference="../../../components/diylc.connectivity.Eyelet[168]"/>
-      <diylc.connectivity.Eyelet reference="../../../components/diylc.connectivity.Eyelet[169]"/>
-      <diylc.connectivity.Eyelet reference="../../../components/diylc.connectivity.Eyelet[167]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[50]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[28]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[24]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[7]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[27]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[26]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[29]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[23]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[25]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[8]"/>
     </set>
     <set>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[41]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[40]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[50]"/>
+      <diylc.connectivity.Eyelet reference="../../../components/diylc.connectivity.Eyelet[167]"/>
+      <diylc.connectivity.Eyelet reference="../../../components/diylc.connectivity.Eyelet[168]"/>
+      <diylc.connectivity.Eyelet reference="../../../components/diylc.connectivity.Eyelet[169]"/>
+    </set>
+    <set>
       <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[42]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[40]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[41]"/>
+    </set>
+    <set>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[43]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[48]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[45]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[44]"/>
+      <diylc.shapes.Polygon reference="../../../components/diylc.shapes.Polygon"/>
+      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line[2]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[46]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[47]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[11]"/>
+      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line"/>
+    </set>
+    <set>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[35]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[28]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[27]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[30]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[29]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[34]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[26]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[32]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[36]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[33]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[31]"/>
+    </set>
+    <set>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[40]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[45]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[46]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[48]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[44]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[43]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[41]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[42]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[39]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[38]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[47]"/>
+    </set>
+    <set>
+      <diylc.shapes.Polygon reference="../../../components/diylc.shapes.Polygon[4]"/>
+      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line[6]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[37]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[65]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[63]"/>
+      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line[5]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[62]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[66]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[61]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[64]"/>
+    </set>
+    <set>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[34]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[10]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[35]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[33]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[9]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[30]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[32]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[36]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[31]"/>
+    </set>
+    <set>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[51]"/>
+      <diylc.connectivity.Eyelet reference="../../../components/diylc.connectivity.Eyelet[172]"/>
+      <diylc.connectivity.Eyelet reference="../../../components/diylc.connectivity.Eyelet[171]"/>
+      <diylc.connectivity.Eyelet reference="../../../components/diylc.connectivity.Eyelet[170]"/>
+    </set>
+    <set>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[49]"/>
+      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line[4]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[51]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[57]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[54]"/>
+      <diylc.shapes.Polygon reference="../../../components/diylc.shapes.Polygon[2]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[55]"/>
+      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line[3]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[53]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[56]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[12]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[52]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[50]"/>
     </set>
     <set>
       <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[2]"/>
       <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[6]"/>
       <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[5]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[4]"/>
       <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[2]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[7]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[8]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[3]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[4]"/>
       <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[7]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[3]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[8]"/>
     </set>
     <set>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[54]"/>
-      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line[3]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[50]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[53]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[51]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[55]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[56]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[49]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[52]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[57]"/>
-      <diylc.shapes.Polygon reference="../../../components/diylc.shapes.Polygon[2]"/>
-      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line[4]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[12]"/>
-    </set>
-    <set>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[64]"/>
-      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line[6]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[62]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[65]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[37]"/>
-      <diylc.shapes.Polygon reference="../../../components/diylc.shapes.Polygon[4]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[66]"/>
-      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line[5]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[63]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[61]"/>
-    </set>
-    <set>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[47]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[11]"/>
-      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[46]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[44]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[45]"/>
-      <diylc.shapes.Polygon reference="../../../components/diylc.shapes.Polygon"/>
-      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line[2]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[48]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[43]"/>
-    </set>
-    <set>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[31]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[10]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[9]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[30]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[36]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[32]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[33]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[35]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[34]"/>
-    </set>
-    <set>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[69]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[71]"/>
       <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[67]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[49]"/>
-      <diylc.shapes.Polygon reference="../../../components/diylc.shapes.Polygon[5]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[72]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[74]"/>
       <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[68]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[73]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[72]"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[49]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[71]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[74]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[69]"/>
       <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[70]"/>
-    </set>
-    <set>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[51]"/>
-      <diylc.connectivity.Eyelet reference="../../../components/diylc.connectivity.Eyelet[171]"/>
-      <diylc.connectivity.Eyelet reference="../../../components/diylc.connectivity.Eyelet[170]"/>
-      <diylc.connectivity.Eyelet reference="../../../components/diylc.connectivity.Eyelet[172]"/>
-    </set>
-    <set>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[40]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[43]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[47]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[45]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[46]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[44]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[38]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[48]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[42]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[41]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[39]"/>
-    </set>
-    <set>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[31]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[28]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[34]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[30]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[35]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[26]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[36]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[33]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[32]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[29]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[27]"/>
-    </set>
-    <set>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[29]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[8]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[7]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[28]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[27]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[26]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[24]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[23]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[25]"/>
+      <diylc.shapes.Polygon reference="../../../components/diylc.shapes.Polygon[5]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[73]"/>
     </set>
   </groups>
   <lockedLayers>
