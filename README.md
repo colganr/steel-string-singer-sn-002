@@ -11,7 +11,7 @@ This project is to create a tube amplifier chassis that can be compared to a Dum
 | AutoCAD-Design | Layout and precision design using AutoCAD. *.dwg and *.dxf files |
 | BOM | Excel lists of my purchases. Mouser project file as well that can import into Mouser's BOM Manager for easy purchase.  |
 | Reference-Pictures | *.png screen shots of various portions of the chassis in Inventor |
-| Circuit | Schematics and layouts that are SSS #002 based. Includes *.DIY DIYLC files  |
+| Circuit | Schematics and layouts that are SSS #002 based. Includes *.DIY DIYLC files as well as individual PDF/PNG of the boards  |
 | Silkscreen-Artwork | *.pdf and *.svg of the front and back artwork |
 
 
