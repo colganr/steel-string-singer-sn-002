@@ -66,4 +66,4 @@ I recommend Taylor @ Amplified Nation http://amplifiednation.com/ to get a quote
 Always double check mine, and your work. I am not responsible for any loses as I'm providing this information for free and educational purposes. I am confident these drawings and files will produce an excellent chassis as-is and I have a bit of experience now with designing and outsourcing my own chasiss. Enjoy and good look! Drop me a message if you have any questions or you want to let me know how your chassis went! 
 [https://www.thetonegeek.com/](https://www.thetonegeek.com/)
 
-I also am creating a YouTube series for my build for reference [TheToneGeek YouTube Page](https://www.youtube.com/channel/UCu4ohfa8-YILJAzfYLCvr1g)
+I also am creating a YouTube series for my build for reference [TheToneGeek YouTube SSS #002 Playlist](https://www.youtube.com/playlist?list=PL7cXUZ8g7NhQ-m8TfABf82qVsaGDDUorQ)
