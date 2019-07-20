@@ -6,21 +6,21 @@
     <build>0</build>
   </fileVersion>
   <title>New Project</title>
-  <author>RCCol</author>
+  <author>Ryan</author>
   <width value="6.0" unit="in"/>
-  <height value="3.125" unit="in"/>
-  <gridSpacing value="0.125" unit="in"/>
+  <height value="4.0" unit="in"/>
+  <gridSpacing value="0.1" unit="in"/>
   <components>
     <diylc.boards.BlankBoard>
       <name>Board3</name>
       <alpha>127</alpha>
       <value></value>
       <controlPoints>
-        <point x="0.0050" y="0.0"/>
-        <point x="5.605" y="3.105"/>
+        <point x="0.01" y="0.0"/>
+        <point x="5.61" y="3.105"/>
       </controlPoints>
-      <firstPoint x="0.0050" y="0.0"/>
-      <secondPoint x="5.605" y="3.105"/>
+      <firstPoint x="0.01" y="0.0"/>
+      <secondPoint x="5.61" y="3.105"/>
       <boardColor hex="333333"/>
       <borderColor hex="ada47d"/>
       <coordinateColor hex="b6b6b6"/>
@@ -41,16 +41,16 @@
       <mount>CHASSIS</mount>
       <labelColor hex="acaca7"/>
       <controlPoints>
-        <point x="0.915" y="2.185"/>
-        <point x="1.06" y="1.98"/>
-        <point x="1.15" y="2.105"/>
-        <point x="1.15" y="2.26"/>
-        <point x="1.06" y="2.385"/>
-        <point x="0.915" y="2.43"/>
-        <point x="0.765" y="2.385"/>
-        <point x="0.675" y="2.26"/>
-        <point x="0.675" y="2.105"/>
-        <point x="0.765" y="1.98"/>
+        <point x="0.92" y="2.185"/>
+        <point x="1.065" y="1.98"/>
+        <point x="1.155" y="2.105"/>
+        <point x="1.155" y="2.26"/>
+        <point x="1.065" y="2.385"/>
+        <point x="0.92" y="2.43"/>
+        <point x="0.77" y="2.385"/>
+        <point x="0.68" y="2.26"/>
+        <point x="0.68" y="2.105"/>
+        <point x="0.77" y="1.98"/>
       </controlPoints>
     </diylc.tube.TubeSocket>
     <diylc.passive.Resistor>
@@ -59,9 +59,9 @@
       <length value="12.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="1.39" y="1.19"/>
-        <point x="0.465" y="0.215"/>
-        <point x="0.925" y="0.705"/>
+        <point x="1.395" y="1.19"/>
+        <point x="0.47" y="0.215"/>
+        <point x="0.93" y="0.705"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -82,9 +82,9 @@
       <length value="12.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="0.45" y="0.19"/>
-        <point x="1.425" y="0.63"/>
-        <point x="0.94" y="0.41"/>
+        <point x="0.455" y="0.19"/>
+        <point x="1.43" y="0.63"/>
+        <point x="0.945" y="0.41"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -110,16 +110,16 @@
       <mount>CHASSIS</mount>
       <labelColor hex="acaca7"/>
       <controlPoints>
-        <point x="2.415" y="2.185"/>
-        <point x="2.56" y="1.98"/>
-        <point x="2.65" y="2.105"/>
-        <point x="2.65" y="2.26"/>
-        <point x="2.56" y="2.385"/>
-        <point x="2.415" y="2.43"/>
-        <point x="2.265" y="2.385"/>
-        <point x="2.175" y="2.26"/>
-        <point x="2.175" y="2.105"/>
-        <point x="2.265" y="1.98"/>
+        <point x="2.42" y="2.185"/>
+        <point x="2.565" y="1.98"/>
+        <point x="2.655" y="2.105"/>
+        <point x="2.655" y="2.26"/>
+        <point x="2.565" y="2.385"/>
+        <point x="2.42" y="2.43"/>
+        <point x="2.27" y="2.385"/>
+        <point x="2.18" y="2.26"/>
+        <point x="2.18" y="2.105"/>
+        <point x="2.27" y="1.98"/>
       </controlPoints>
     </diylc.tube.TubeSocket>
     <diylc.passive.Resistor>
@@ -128,9 +128,9 @@
       <length value="20.0" unit="mm"/>
       <width value="7.0" unit="mm"/>
       <points>
-        <point x="5.23" y="2.535"/>
-        <point x="5.23" y="1.29"/>
-        <point x="5.23" y="1.91"/>
+        <point x="5.235" y="2.535"/>
+        <point x="5.235" y="1.29"/>
+        <point x="5.235" y="1.91"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -150,7 +150,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="4.665" y="0.18"/>
+      <point x="4.67" y="0.18"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -158,7 +158,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="4.655" y="1.285"/>
+      <point x="4.66" y="1.285"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -166,7 +166,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="4.645" y="1.97"/>
+      <point x="4.65" y="1.97"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.passive.Resistor>
@@ -175,9 +175,9 @@
       <length value="12.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="4.655" y="2.72"/>
-        <point x="4.655" y="1.98"/>
-        <point x="4.655" y="2.35"/>
+        <point x="4.66" y="2.72"/>
+        <point x="4.66" y="1.98"/>
+        <point x="4.66" y="2.35"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -187,7 +187,7 @@
       <flipStanding>false</flipStanding>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
-      <value value="820.0" unit="K"/>
+      <value value="820.0" unit="R"/>
       <power>HALF</power>
       <colorCode>_5_BAND</colorCode>
       <shape>Standard</shape>
@@ -197,7 +197,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="5.235" y="2.56"/>
+      <point x="5.24" y="2.56"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -205,7 +205,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="5.215" y="1.29"/>
+      <point x="5.22" y="1.29"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -213,7 +213,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="0.375" y="1.98"/>
+      <point x="0.38" y="1.98"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -221,7 +221,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="0.285" y="0.845"/>
+      <point x="0.29" y="0.845"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -229,7 +229,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="0.86" y="1.43"/>
+      <point x="0.865" y="1.43"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -237,7 +237,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="3.745" y="1.965"/>
+      <point x="3.75" y="1.965"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -245,7 +245,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="2.945" y="2.37"/>
+      <point x="2.95" y="2.37"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -253,17 +253,17 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="4.645" y="2.73"/>
+      <point x="4.65" y="2.73"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.HookupWire>
       <name>W156</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="2.975" y="2.4"/>
-        <point x="3.285" y="2.18"/>
-        <point x="4.215" y="2.27"/>
-        <point x="4.635" y="2.74"/>
+        <point x="2.98" y="2.4"/>
+        <point x="3.29" y="2.18"/>
+        <point x="4.22" y="2.27"/>
+        <point x="4.64" y="2.74"/>
       </controlPoints2>
       <color hex="00ff00"/>
       <pointCount>FOUR</pointCount>
@@ -280,9 +280,9 @@
       <length value="12.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="4.645" y="1.98"/>
-        <point x="5.25" y="1.29"/>
-        <point x="4.95" y="1.635"/>
+        <point x="4.65" y="1.98"/>
+        <point x="5.255" y="1.29"/>
+        <point x="4.955" y="1.635"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -302,17 +302,17 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="3.785" y="0.2"/>
+      <point x="3.79" y="0.2"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.HookupWire>
       <name>W157</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="3.815" y="0.18"/>
-        <point x="4.315" y="0.38"/>
-        <point x="4.9" y="1.025"/>
-        <point x="5.225" y="1.28"/>
+        <point x="3.82" y="0.18"/>
+        <point x="4.32" y="0.38"/>
+        <point x="4.905" y="1.025"/>
+        <point x="5.23" y="1.28"/>
       </controlPoints2>
       <color hex="00ff00"/>
       <pointCount>FOUR</pointCount>
@@ -328,7 +328,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="2.84" y="1.7"/>
+      <point x="2.845" y="1.7"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -336,7 +336,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="2.83" y="0.425"/>
+      <point x="2.835" y="0.425"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -344,7 +344,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="1.975" y="0.43"/>
+      <point x="1.98" y="0.43"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -352,7 +352,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="3.065" y="0.16"/>
+      <point x="3.07" y="0.16"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -360,40 +360,18 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="1.985" y="1.7"/>
+      <point x="1.99" y="1.7"/>
       <value></value>
     </diylc.connectivity.Eyelet>
-    <diylc.passive.RadialCeramicDiskCapacitor>
-      <name>C19</name>
-      <alpha>127</alpha>
-      <length value="0.25" unit="in"/>
-      <width value="0.125" unit="in"/>
-      <points>
-        <point x="1.98" y="1.685"/>
-        <point x="2.83" y="1.685"/>
-        <point x="2.415" y="1.685"/>
-      </points>
-      <bodyColor hex="f0e68c"/>
-      <borderColor hex="a8a162"/>
-      <labelColor hex="000000"/>
-      <leadColor hex="cccccc"/>
-      <display>VALUE</display>
-      <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
-      <moveLabel>false</moveLabel>
-      <pinSpacing value="0.1" unit="in"/>
-      <value value="68.0" unit="pF"/>
-      <voltage>_63V</voltage>
-    </diylc.passive.RadialCeramicDiskCapacitor>
     <diylc.passive.RadialFilmCapacitor>
       <name>C18</name>
       <alpha>127</alpha>
       <length value="1.16" unit="in"/>
       <width value="0.65" unit="in"/>
       <points>
-        <point x="3.785" y="1.945"/>
-        <point x="3.805" y="0.2"/>
-        <point x="3.795" y="1.075"/>
+        <point x="3.79" y="1.945"/>
+        <point x="3.81" y="0.2"/>
+        <point x="3.8" y="1.075"/>
       </points>
       <bodyColor hex="ff4500"/>
       <borderColor hex="381d02"/>
@@ -414,12 +392,12 @@
       <length value="12.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="3.085" y="0.165"/>
-        <point x="3.79" y="0.17"/>
-        <point x="4.46" y="0.31"/>
+        <point x="3.09" y="0.165"/>
+        <point x="3.795" y="0.17"/>
+        <point x="4.465" y="0.31"/>
       </points>
-      <bodyColor hex="e0c68b"/>
-      <borderColor hex="a59268"/>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
       <labelColor hex="000000"/>
       <leadColor hex="cccccc"/>
       <display>VALUE</display>
@@ -437,9 +415,9 @@
       <length value="0.82" unit="in"/>
       <width value="0.38" unit="in"/>
       <points>
-        <point x="4.665" y="1.275"/>
-        <point x="4.665" y="0.22"/>
-        <point x="4.665" y="0.75"/>
+        <point x="4.67" y="1.275"/>
+        <point x="4.67" y="0.22"/>
+        <point x="4.67" y="0.75"/>
       </points>
       <bodyColor hex="ff4500"/>
       <borderColor hex="381d02"/>
@@ -458,10 +436,10 @@
       <name>W159</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="3.765" y="1.99"/>
-        <point x="3.395" y="1.67"/>
-        <point x="0.825" y="0.44"/>
-        <point x="1.855" y="2.39"/>
+        <point x="3.77" y="1.99"/>
+        <point x="3.4" y="1.67"/>
+        <point x="0.83" y="0.44"/>
+        <point x="1.86" y="2.39"/>
       </controlPoints2>
       <color hex="ff00cc"/>
       <pointCount>FOUR</pointCount>
@@ -477,16 +455,16 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="1.875" y="2.38"/>
+      <point x="1.88" y="2.38"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Jumper>
       <name>J92</name>
       <alpha>127</alpha>
       <points>
-        <point x="2.185" y="2.26"/>
-        <point x="1.865" y="2.37"/>
-        <point x="2.025" y="2.315"/>
+        <point x="2.19" y="2.26"/>
+        <point x="1.87" y="2.37"/>
+        <point x="2.03" y="2.315"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -503,17 +481,17 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="2.105" y="2.71"/>
+      <point x="2.11" y="2.71"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.HookupWire>
       <name>W160</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="1.975" y="1.73"/>
-        <point x="1.045" y="2.86"/>
-        <point x="2.235" y="2.74"/>
-        <point x="2.095" y="2.69"/>
+        <point x="1.98" y="1.73"/>
+        <point x="1.05" y="2.86"/>
+        <point x="2.24" y="2.74"/>
+        <point x="2.1" y="2.69"/>
       </controlPoints2>
       <color hex="00ff00"/>
       <pointCount>FOUR</pointCount>
@@ -528,9 +506,9 @@
       <name>J93</name>
       <alpha>127</alpha>
       <points>
-        <point x="2.945" y="2.37"/>
-        <point x="2.645" y="2.25"/>
-        <point x="2.8" y="2.31"/>
+        <point x="2.95" y="2.37"/>
+        <point x="2.65" y="2.25"/>
+        <point x="2.805" y="2.31"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -546,9 +524,9 @@
       <name>J94</name>
       <alpha>127</alpha>
       <points>
-        <point x="2.255" y="2.39"/>
-        <point x="2.125" y="2.7"/>
-        <point x="2.19" y="2.545"/>
+        <point x="2.26" y="2.39"/>
+        <point x="2.13" y="2.7"/>
+        <point x="2.195" y="2.545"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -565,7 +543,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="0.475" y="0.18"/>
+      <point x="0.48" y="0.18"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.passive.Resistor>
@@ -574,12 +552,12 @@
       <length value="12.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="0.48" y="0.165"/>
-        <point x="1.565" y="0.18"/>
-        <point x="1.025" y="0.175"/>
+        <point x="0.485" y="0.165"/>
+        <point x="1.57" y="0.18"/>
+        <point x="1.03" y="0.175"/>
       </points>
-      <bodyColor hex="e0c68b"/>
-      <borderColor hex="a59268"/>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
       <labelColor hex="000000"/>
       <leadColor hex="cccccc"/>
       <display>VALUE</display>
@@ -596,15 +574,15 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="1.57" y="0.165"/>
+      <point x="1.575" y="0.165"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.HookupWire>
       <name>W161</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="1.58" y="0.175"/>
-        <point x="3.045" y="0.16"/>
+        <point x="1.585" y="0.175"/>
+        <point x="3.05" y="0.16"/>
       </controlPoints2>
       <color hex="000000"/>
       <pointCount>TWO</pointCount>
@@ -620,7 +598,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="1.385" y="0.61"/>
+      <point x="1.39" y="0.61"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -628,7 +606,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="1.385" y="1.19"/>
+      <point x="1.39" y="1.19"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -636,17 +614,17 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="1.405" y="1.97"/>
+      <point x="1.41" y="1.97"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.HookupWire>
       <name>W164</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="1.415" y="1.18"/>
-        <point x="1.515" y="0.92"/>
-        <point x="1.515" y="1.92"/>
-        <point x="1.395" y="1.98"/>
+        <point x="1.42" y="1.18"/>
+        <point x="1.52" y="0.92"/>
+        <point x="1.52" y="1.92"/>
+        <point x="1.4" y="1.98"/>
       </controlPoints2>
       <color hex="00ff00"/>
       <pointCount>FOUR</pointCount>
@@ -661,8 +639,8 @@
       <name>W165</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="1.395" y="0.6"/>
-        <point x="1.965" y="0.43"/>
+        <point x="1.4" y="0.6"/>
+        <point x="1.97" y="0.43"/>
       </controlPoints2>
       <color hex="00ff00"/>
       <pointCount>TWO</pointCount>
@@ -678,17 +656,17 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="0.365" y="2.37"/>
+      <point x="0.37" y="2.37"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.HookupWire>
       <name>W166</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="1.395" y="0.63"/>
-        <point x="1.855" y="1.07"/>
-        <point x="-0.72" y="1.435"/>
-        <point x="0.325" y="2.39"/>
+        <point x="1.4" y="0.63"/>
+        <point x="1.86" y="1.07"/>
+        <point x="-0.715" y="1.435"/>
+        <point x="0.33" y="2.39"/>
       </controlPoints2>
       <color hex="ff6600"/>
       <pointCount>FOUR</pointCount>
@@ -703,9 +681,9 @@
       <name>J95</name>
       <alpha>127</alpha>
       <points>
-        <point x="0.675" y="2.09"/>
-        <point x="0.395" y="1.97"/>
-        <point x="0.535" y="2.03"/>
+        <point x="0.68" y="2.09"/>
+        <point x="0.4" y="1.97"/>
+        <point x="0.54" y="2.03"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -721,9 +699,9 @@
       <name>J96</name>
       <alpha>127</alpha>
       <points>
-        <point x="0.675" y="2.27"/>
-        <point x="0.365" y="2.35"/>
-        <point x="0.52" y="2.31"/>
+        <point x="0.68" y="2.27"/>
+        <point x="0.37" y="2.35"/>
+        <point x="0.525" y="2.31"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -741,9 +719,9 @@
       <length value="12.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="0.38" y="1.96"/>
-        <point x="0.875" y="1.425"/>
-        <point x="0.635" y="1.695"/>
+        <point x="0.385" y="1.96"/>
+        <point x="0.88" y="1.425"/>
+        <point x="0.64" y="1.695"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -764,9 +742,9 @@
       <length value="1.16" unit="in"/>
       <width value="0.65" unit="in"/>
       <points>
-        <point x="2.83" y="1.68"/>
-        <point x="2.83" y="0.405"/>
-        <point x="2.83" y="1.05"/>
+        <point x="2.835" y="1.68"/>
+        <point x="2.835" y="0.405"/>
+        <point x="2.835" y="1.05"/>
       </points>
       <bodyColor hex="ff4500"/>
       <borderColor hex="381d02"/>
@@ -785,10 +763,10 @@
       <name>W163</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="1.415" y="1.2"/>
-        <point x="1.515" y="0.94"/>
-        <point x="1.945" y="1.16"/>
-        <point x="2.825" y="0.45"/>
+        <point x="1.42" y="1.2"/>
+        <point x="1.52" y="0.94"/>
+        <point x="1.95" y="1.16"/>
+        <point x="2.83" y="0.45"/>
       </controlPoints2>
       <color hex="0000ff"/>
       <pointCount>FOUR</pointCount>
@@ -803,9 +781,9 @@
       <name>J97</name>
       <alpha>127</alpha>
       <points>
-        <point x="1.065" y="1.99"/>
-        <point x="0.765" y="2.38"/>
-        <point x="0.915" y="2.18"/>
+        <point x="1.07" y="1.99"/>
+        <point x="0.77" y="2.38"/>
+        <point x="0.92" y="2.18"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -822,16 +800,16 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="0.605" y="2.66"/>
+      <point x="0.61" y="2.66"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Jumper>
       <name>J98</name>
       <alpha>127</alpha>
       <points>
-        <point x="0.785" y="2.39"/>
-        <point x="0.625" y="2.66"/>
-        <point x="0.71" y="2.52"/>
+        <point x="0.79" y="2.39"/>
+        <point x="0.63" y="2.66"/>
+        <point x="0.715" y="2.52"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -847,9 +825,9 @@
       <name>J99</name>
       <alpha>127</alpha>
       <points>
-        <point x="2.175" y="2.09"/>
-        <point x="2.655" y="2.26"/>
-        <point x="2.415" y="2.175"/>
+        <point x="2.18" y="2.09"/>
+        <point x="2.66" y="2.26"/>
+        <point x="2.42" y="2.175"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -865,9 +843,9 @@
       <name>J100</name>
       <alpha>127</alpha>
       <points>
-        <point x="1.045" y="2.38"/>
-        <point x="0.925" y="2.43"/>
-        <point x="0.985" y="2.4"/>
+        <point x="1.05" y="2.38"/>
+        <point x="0.93" y="2.43"/>
+        <point x="0.99" y="2.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -883,9 +861,9 @@
       <name>J101</name>
       <alpha>127</alpha>
       <points>
-        <point x="2.545" y="2.39"/>
-        <point x="2.425" y="2.44"/>
-        <point x="2.485" y="2.41"/>
+        <point x="2.55" y="2.39"/>
+        <point x="2.43" y="2.44"/>
+        <point x="2.49" y="2.41"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -901,9 +879,9 @@
       <name>J102</name>
       <alpha>127</alpha>
       <points>
-        <point x="1.145" y="2.11"/>
-        <point x="1.395" y="2.01"/>
-        <point x="1.27" y="2.06"/>
+        <point x="1.15" y="2.11"/>
+        <point x="1.4" y="2.01"/>
+        <point x="1.275" y="2.06"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -920,17 +898,17 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="1.415" y="2.38"/>
+      <point x="1.42" y="2.38"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.HookupWire>
       <name>W167</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="0.305" y="0.865"/>
-        <point x="-0.285" y="2.72"/>
-        <point x="0.935" y="3.59"/>
-        <point x="1.395" y="2.4"/>
+        <point x="0.31" y="0.865"/>
+        <point x="-0.28" y="2.72"/>
+        <point x="0.94" y="3.59"/>
+        <point x="1.4" y="2.4"/>
       </controlPoints2>
       <color hex="00ff00"/>
       <pointCount>FOUR</pointCount>
@@ -945,9 +923,9 @@
       <name>J103</name>
       <alpha>127</alpha>
       <points>
-        <point x="1.155" y="2.27"/>
-        <point x="1.415" y="2.38"/>
-        <point x="1.285" y="2.325"/>
+        <point x="1.16" y="2.27"/>
+        <point x="1.42" y="2.38"/>
+        <point x="1.29" y="2.325"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -963,9 +941,9 @@
       <name>J104</name>
       <alpha>127</alpha>
       <points>
-        <point x="2.565" y="1.98"/>
-        <point x="2.845" y="1.71"/>
-        <point x="2.705" y="1.845"/>
+        <point x="2.57" y="1.98"/>
+        <point x="2.85" y="1.71"/>
+        <point x="2.71" y="1.845"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -982,17 +960,17 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="2.905" y="2.02"/>
+      <point x="2.91" y="2.02"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.HookupWire>
       <name>W169</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="2.925" y="2.03"/>
-        <point x="3.205" y="2.12"/>
-        <point x="3.965" y="2.68"/>
-        <point x="4.665" y="1.31"/>
+        <point x="2.93" y="2.03"/>
+        <point x="3.21" y="2.12"/>
+        <point x="3.97" y="2.68"/>
+        <point x="4.67" y="1.31"/>
       </controlPoints2>
       <color hex="00ff00"/>
       <pointCount>FOUR</pointCount>
@@ -1009,9 +987,9 @@
       <length value="12.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="3.76" y="1.96"/>
-        <point x="4.655" y="1.98"/>
-        <point x="4.205" y="1.91"/>
+        <point x="3.765" y="1.96"/>
+        <point x="4.66" y="1.98"/>
+        <point x="4.21" y="1.91"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -1032,9 +1010,9 @@
       <length value="1.16" unit="in"/>
       <width value="0.65" unit="in"/>
       <points>
-        <point x="1.98" y="1.68"/>
-        <point x="1.98" y="0.41"/>
-        <point x="1.98" y="1.035"/>
+        <point x="1.985" y="1.68"/>
+        <point x="1.985" y="0.41"/>
+        <point x="1.985" y="1.035"/>
       </points>
       <bodyColor hex="ff4500"/>
       <borderColor hex="381d02"/>
@@ -1055,9 +1033,9 @@
       <length value="12.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="4.655" y="2.01"/>
-        <point x="4.665" y="1.275"/>
-        <point x="4.66" y="1.615"/>
+        <point x="4.66" y="2.01"/>
+        <point x="4.67" y="1.275"/>
+        <point x="4.665" y="1.615"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -1078,9 +1056,9 @@
       <length value="12.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="0.32" y="0.855"/>
-        <point x="0.875" y="1.425"/>
-        <point x="0.6" y="1.14"/>
+        <point x="0.325" y="0.855"/>
+        <point x="0.88" y="1.425"/>
+        <point x="0.605" y="1.14"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -1101,9 +1079,9 @@
       <length value="12.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="0.875" y="1.425"/>
-        <point x="0.48" y="0.165"/>
-        <point x="0.7" y="0.865"/>
+        <point x="0.88" y="1.425"/>
+        <point x="0.485" y="0.165"/>
+        <point x="0.705" y="0.865"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -1122,32 +1100,32 @@
       <name>Dot70</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="5.405" y="2.9"/>
+      <point x="5.41" y="2.9"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
       <name>Dot71</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="5.405" y="0.4"/>
+      <point x="5.41" y="0.4"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
       <name>Dot72</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="0.205" y="2.9"/>
+      <point x="0.21" y="2.9"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
       <name>Dot73</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="0.205" y="0.4"/>
+      <point x="0.21" y="0.4"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Eyelet>
       <name>Eyelet42</name>
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="3.965" y="2.665"/>
+      <point x="3.97" y="2.665"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -1155,7 +1133,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="3.475" y="2.86"/>
+      <point x="3.48" y="2.86"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -1163,7 +1141,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="3.475" y="2.465"/>
+      <point x="3.48" y="2.465"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.shapes.Ellipse>
@@ -1171,18 +1149,18 @@
       <alpha>127</alpha>
       <value></value>
       <controlPoints>
-        <point x="3.86" y="2.485"/>
-        <point x="3.495" y="2.84"/>
+        <point x="3.865" y="2.485"/>
+        <point x="3.5" y="2.84"/>
       </controlPoints>
-      <firstPoint x="3.495" y="2.485"/>
-      <secondPoint x="3.86" y="2.84"/>
+      <firstPoint x="3.5" y="2.485"/>
+      <secondPoint x="3.865" y="2.84"/>
       <color hex="666666"/>
       <borderColor hex="000000"/>
       <borderThickness value="0.2" unit="mm"/>
     </diylc.shapes.Ellipse>
     <diylc.misc.Label>
       <name>L18</name>
-      <point x="3.67" y="2.655"/>
+      <point x="3.675" y="2.655"/>
       <text>25KL</text>
       <font name="Dialog" size="18" style="0"/>
       <color hex="ffffff"/>
@@ -1197,9 +1175,9 @@
       <length value="12.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="2.12" y="2.71"/>
-        <point x="3.47" y="2.865"/>
-        <point x="2.31" y="2.595"/>
+        <point x="2.125" y="2.71"/>
+        <point x="3.475" y="2.865"/>
+        <point x="2.315" y="2.595"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -1220,9 +1198,9 @@
       <length value="12.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="3.48" y="2.455"/>
-        <point x="2.875" y="1.705"/>
-        <point x="3.175" y="2.08"/>
+        <point x="3.485" y="2.455"/>
+        <point x="2.88" y="1.705"/>
+        <point x="3.18" y="2.08"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -1237,9 +1215,228 @@
       <colorCode>_5_BAND</colorCode>
       <shape>Standard</shape>
     </diylc.passive.Resistor>
+    <diylc.connectivity.Line>
+      <name>LN5</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="1.775" y="1.485"/>
+        <point x="2.165" y="1.485"/>
+        <point x="1.775" y="1.485"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <gamma>4.661118163341335</gamma>
+      <r>39.01281840626232</r>
+      <color hex="000000"/>
+      <style>SOLID</style>
+      <thickness value="10.0" unit="px"/>
+      <arrowSize value="5.0" unit="px"/>
+      <arrowTx serialization="custom">
+        <java.awt.geom.AffineTransform>
+          <default>
+            <m00>1.0</m00>
+            <m01>0.0</m01>
+            <m02>0.0</m02>
+            <m10>0.0</m10>
+            <m11>1.0</m11>
+            <m12>0.0</m12>
+          </default>
+        </java.awt.geom.AffineTransform>
+      </arrowTx>
+      <arrowStart>false</arrowStart>
+      <arrowEnd>false</arrowEnd>
+    </diylc.connectivity.Line>
+    <diylc.connectivity.Line>
+      <name>LN6</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="2.65" y="1.47"/>
+        <point x="3.04" y="1.47"/>
+        <point x="2.65" y="1.47"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <gamma>4.661118163341335</gamma>
+      <r>39.01281840626232</r>
+      <color hex="000000"/>
+      <style>SOLID</style>
+      <thickness value="10.0" unit="px"/>
+      <arrowSize value="5.0" unit="px"/>
+      <arrowTx serialization="custom">
+        <java.awt.geom.AffineTransform>
+          <default>
+            <m00>1.0</m00>
+            <m01>0.0</m01>
+            <m02>0.0</m02>
+            <m10>0.0</m10>
+            <m11>1.0</m11>
+            <m12>0.0</m12>
+          </default>
+        </java.awt.geom.AffineTransform>
+      </arrowTx>
+      <arrowStart>false</arrowStart>
+      <arrowEnd>false</arrowEnd>
+    </diylc.connectivity.Line>
+    <diylc.connectivity.Line>
+      <name>LN7</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="3.575" y="0.63"/>
+        <point x="3.965" y="0.63"/>
+        <point x="3.575" y="0.63"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <gamma>4.661118163341335</gamma>
+      <r>39.01281840626232</r>
+      <color hex="000000"/>
+      <style>SOLID</style>
+      <thickness value="10.0" unit="px"/>
+      <arrowSize value="5.0" unit="px"/>
+      <arrowTx serialization="custom">
+        <java.awt.geom.AffineTransform>
+          <default>
+            <m00>1.0</m00>
+            <m01>0.0</m01>
+            <m02>0.0</m02>
+            <m10>0.0</m10>
+            <m11>1.0</m11>
+            <m12>0.0</m12>
+          </default>
+        </java.awt.geom.AffineTransform>
+      </arrowTx>
+      <arrowStart>false</arrowStart>
+      <arrowEnd>false</arrowEnd>
+    </diylc.connectivity.Line>
+    <diylc.connectivity.Line>
+      <name>LN8</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="4.475" y="0.45"/>
+        <point x="4.865" y="0.45"/>
+        <point x="4.475" y="0.45"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <gamma>4.661118163341335</gamma>
+      <r>39.01281840626232</r>
+      <color hex="000000"/>
+      <style>SOLID</style>
+      <thickness value="10.0" unit="px"/>
+      <arrowSize value="5.0" unit="px"/>
+      <arrowTx serialization="custom">
+        <java.awt.geom.AffineTransform>
+          <default>
+            <m00>1.0</m00>
+            <m01>0.0</m01>
+            <m02>0.0</m02>
+            <m10>0.0</m10>
+            <m11>1.0</m11>
+            <m12>0.0</m12>
+          </default>
+        </java.awt.geom.AffineTransform>
+      </arrowTx>
+      <arrowStart>false</arrowStart>
+      <arrowEnd>false</arrowEnd>
+    </diylc.connectivity.Line>
+    <diylc.misc.WrapLabel>
+      <name>L40</name>
+      <controlPoints>
+        <point x="2.08" y="1.87"/>
+        <point x="2.755" y="2.02"/>
+      </controlPoints>
+      <firstPoint x="2.08" y="1.87"/>
+      <secondPoint x="2.755" y="2.02"/>
+      <font name="Dialog" size="22" style="1"/>
+      <color hex="ff0033"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <value>7025</value>
+    </diylc.misc.WrapLabel>
+    <diylc.misc.WrapLabel>
+      <name>L41</name>
+      <controlPoints>
+        <point x="0.56" y="1.88"/>
+        <point x="1.235" y="2.03"/>
+      </controlPoints>
+      <firstPoint x="0.56" y="1.88"/>
+      <secondPoint x="1.235" y="2.03"/>
+      <font name="Dialog" size="22" style="1"/>
+      <color hex="ff0033"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <value>7025</value>
+    </diylc.misc.WrapLabel>
+    <diylc.passive.RadialCeramicDiskCapacitor>
+      <name>C10</name>
+      <alpha>127</alpha>
+      <length value="0.5" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="2.825" y="1.71"/>
+        <point x="2.02" y="1.71"/>
+        <point x="2.425" y="1.71"/>
+      </points>
+      <bodyColor hex="333333"/>
+      <borderColor hex="cccccc"/>
+      <labelColor hex="ffffff"/>
+      <leadColor hex="cccccc"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <pinSpacing value="0.1" unit="in"/>
+      <value value="68.0" unit="pF"/>
+      <voltage>_63V</voltage>
+      <voltageNew value="500.0"/>
+    </diylc.passive.RadialCeramicDiskCapacitor>
+    <diylc.misc.Label>
+      <name>L60</name>
+      <point x="4.16" y="2.87"/>
+      <text>410V</text>
+      <font name="Dialog" size="22" style="1"/>
+      <color hex="ffffff"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L69</name>
+      <point x="0.91" y="2.68"/>
+      <text>438V</text>
+      <font name="Dialog" size="22" style="1"/>
+      <color hex="ffffff"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
   </components>
   <groups/>
   <lockedLayers/>
   <hiddenLayers/>
-  <font name="Dialog" size="14" style="0"/>
+  <font name="Square721BT-Roman" size="14" style="0"/>
 </project>
