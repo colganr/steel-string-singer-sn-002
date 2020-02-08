@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project>
+  <fileVersion>
+    <major>3</major>
+    <minor>57</minor>
+    <build>0</build>
+  </fileVersion>
+  <title>New Project</title>
+  <author>Ryan</author>
+  <width value="2.0" unit="in"/>
+  <height value="4.0" unit="in"/>
+  <gridSpacing value="0.1" unit="in"/>
+  <components>
+    <diylc.boards.BlankBoard>
+      <name>Board6</name>
+      <alpha>127</alpha>
+      <value></value>
+      <controlPoints>
+        <point x="0.0050" y="0.01"/>
+        <point x="1.755" y="3.135"/>
+      </controlPoints>
+      <firstPoint x="0.0050" y="0.01"/>
+      <secondPoint x="1.755" y="3.135"/>
+      <boardColor hex="333333"/>
+      <borderColor hex="ada47d"/>
+      <coordinateColor hex="b6b6b6"/>
+      <xType>Numbers</xType>
+      <coordinateOrigin>Top_Left</coordinateOrigin>
+      <coordinateDisplay>One_Side</coordinateDisplay>
+      <yType>Letters</yType>
+      <type>SQUARE</type>
+    </diylc.boards.BlankBoard>
+    <diylc.shapes.Ellipse>
+      <name>ELL26</name>
+      <alpha>127</alpha>
+      <value></value>
+      <controlPoints>
+        <point x="0.475" y="1.885"/>
+        <point x="0.85" y="2.26"/>
+      </controlPoints>
+      <firstPoint x="0.475" y="1.885"/>
+      <secondPoint x="0.85" y="2.26"/>
+      <color hex="cccccc"/>
+      <borderColor hex="000000"/>
+      <borderThickness value="0.2" unit="mm"/>
+    </diylc.shapes.Ellipse>
+    <diylc.misc.WrapLabel>
+      <name>L21</name>
+      <controlPoints>
+        <point x="0.515" y="2.04"/>
+        <point x="2.135" y="2.54"/>
+      </controlPoints>
+      <firstPoint x="0.515" y="2.04"/>
+      <secondPoint x="2.135" y="2.54"/>
+      <font name="Dialog" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <value>2N3823</value>
+    </diylc.misc.WrapLabel>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet169</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="0.9" y="1.78"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet170</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="0.375" y="1.87"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.passive.RadialCeramicDiskCapacitor>
+      <name>C36</name>
+      <alpha>127</alpha>
+      <length value="0.25" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="0.255" y="2.01"/>
+        <point x="0.255" y="2.635"/>
+        <point x="0.255" y="2.205"/>
+      </points>
+      <bodyColor hex="f0e68c"/>
+      <borderColor hex="a8a162"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <pinSpacing value="0.1" unit="in"/>
+      <value value="100.0" unit="pF"/>
+      <voltage>_63V</voltage>
+      <voltageNew value="1.0" unit="KV"/>
+    </diylc.passive.RadialCeramicDiskCapacitor>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet171</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="0.38" y="2.76"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.passive.Resistor>
+      <name>R64</name>
+      <alpha>127</alpha>
+      <length value="12.0" unit="mm"/>
+      <width value="5.0" unit="mm"/>
+      <points>
+        <point x="0.38" y="1.885"/>
+        <point x="0.38" y="2.76"/>
+        <point x="0.38" y="2.16"/>
+      </points>
+      <bodyColor hex="e0c68b"/>
+      <borderColor hex="a59268"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <value value="1.0" unit="M"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.connectivity.Jumper>
+      <name>J109</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="0.255" y="2.01"/>
+        <point x="0.38" y="1.885"/>
+        <point x="0.275" y="1.99"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.connectivity.Jumper>
+      <name>J110</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="0.38" y="2.76"/>
+        <point x="0.255" y="2.635"/>
+        <point x="0.32" y="2.7"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet172</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="0.755" y="2.385"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet173</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="1.505" y="1.885"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.passive.AxialElectrolyticCapacitor>
+      <name>100v</name>
+      <alpha>127</alpha>
+      <length value="0.5" unit="in"/>
+      <width value="0.2" unit="in"/>
+      <points>
+        <point x="0.755" y="2.385"/>
+        <point x="1.505" y="1.885"/>
+        <point x="1.075" y="2.165"/>
+      </points>
+      <bodyColor hex="0033cc"/>
+      <borderColor hex="4a4c90"/>
+      <labelColor hex="ffff00"/>
+      <leadColor hex="cccccc"/>
+      <display>BOTH</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <value value="5.0" unit="uF"/>
+      <voltage>_63V</voltage>
+      <voltageNew value="100.0" unit="V"/>
+      <markerColor hex="333333"/>
+      <tickColor hex="ffffff"/>
+      <polarized>true</polarized>
+    </diylc.passive.AxialElectrolyticCapacitor>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet174</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="1.13" y="1.01"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet175</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="1.525" y="0.35"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet176</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="1.505" y="2.76"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.passive.Resistor>
+      <name>R66</name>
+      <alpha>127</alpha>
+      <length value="9.0" unit="mm"/>
+      <width value="3.2" unit="mm"/>
+      <points>
+        <point x="0.755" y="2.385"/>
+        <point x="1.505" y="2.76"/>
+        <point x="0.965" y="2.495"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <value value="8.2" unit="K"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.passive.Resistor>
+      <name>R67</name>
+      <alpha>127</alpha>
+      <length value="9.0" unit="mm"/>
+      <width value="3.2" unit="mm"/>
+      <points>
+        <point x="0.38" y="2.76"/>
+        <point x="1.505" y="2.76"/>
+        <point x="0.77" y="2.76"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <value value="3.3" unit="M"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet177</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="0.63" y="0.34"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.connectivity.Jumper>
+      <name>J111</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="0.88" y="1.76"/>
+        <point x="0.785" y="1.935"/>
+        <point x="1.875" y="1.23"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.connectivity.Jumper>
+      <name>J112</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="0.54" y="1.96"/>
+        <point x="0.395" y="1.86"/>
+        <point x="0.97" y="3.01"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.connectivity.Jumper>
+      <name>J113</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="0.745" y="2.375"/>
+        <point x="0.72" y="2.235"/>
+        <point x="0.745" y="2.35"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.passive.AxialElectrolyticCapacitor>
+      <name>35v</name>
+      <alpha>127</alpha>
+      <length value="0.85" unit="in"/>
+      <width value="0.32" unit="in"/>
+      <points>
+        <point x="1.525" y="0.35"/>
+        <point x="1.505" y="1.885"/>
+        <point x="1.3" y="0.59"/>
+      </points>
+      <bodyColor hex="0033cc"/>
+      <borderColor hex="4a4c90"/>
+      <labelColor hex="ffff00"/>
+      <leadColor hex="cccccc"/>
+      <display>BOTH</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <value value="220.0" unit="uF"/>
+      <voltage>_63V</voltage>
+      <voltageNew value="35.0" unit="V"/>
+      <markerColor hex="333333"/>
+      <tickColor hex="ffffff"/>
+      <polarized>true</polarized>
+    </diylc.passive.AxialElectrolyticCapacitor>
+    <diylc.passive.Resistor>
+      <name>R68</name>
+      <alpha>127</alpha>
+      <length value="9.0" unit="mm"/>
+      <width value="3.2" unit="mm"/>
+      <points>
+        <point x="1.13" y="1.01"/>
+        <point x="1.505" y="1.885"/>
+        <point x="1.24" y="1.28"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <value value="8.2" unit="K"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.passive.Resistor>
+      <name>3w</name>
+      <alpha>127</alpha>
+      <length value="16.0" unit="mm"/>
+      <width value="6.0" unit="mm"/>
+      <points>
+        <point x="1.525" y="0.35"/>
+        <point x="0.63" y="0.34"/>
+        <point x="1.145" y="0.34"/>
+      </points>
+      <bodyColor hex="d2d7db"/>
+      <borderColor hex="b2b7bb"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>BOTH</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <value value="220.0" unit="K"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.connectivity.Jumper>
+      <name>J114</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="1.525" y="0.35"/>
+        <point x="1.13" y="1.01"/>
+        <point x="1.375" y="0.605"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.connectivity.Jumper>
+      <name>J115</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="1.515" y="2.72"/>
+        <point x="1.525" y="1.87"/>
+        <point x="1.52" y="2.295"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.connectivity.Dot>
+      <name>Dot66</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="0.905" y="2.91"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot67</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="0.905" y="0.11"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet153</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="0.565" y="0.64"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet154</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="0.76" y="1.13"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.connectivity.Eyelet>
+      <name>Eyelet155</name>
+      <size value="0.2" unit="in"/>
+      <holeSize value="0.1" unit="in"/>
+      <color hex="c3e4ed"/>
+      <point x="0.365" y="1.13"/>
+      <value></value>
+    </diylc.connectivity.Eyelet>
+    <diylc.shapes.Ellipse>
+      <name>ELL1</name>
+      <alpha>127</alpha>
+      <value></value>
+      <controlPoints>
+        <point x="0.385" y="0.745"/>
+        <point x="0.74" y="1.11"/>
+      </controlPoints>
+      <firstPoint x="0.385" y="0.745"/>
+      <secondPoint x="0.74" y="1.11"/>
+      <color hex="666666"/>
+      <borderColor hex="000000"/>
+      <borderThickness value="0.2" unit="mm"/>
+    </diylc.shapes.Ellipse>
+    <diylc.connectivity.HookupWire>
+      <name>W183</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="0.76" y="1.135"/>
+        <point x="1.13" y="1.26"/>
+        <point x="1.255" y="2.01"/>
+        <point x="1.505" y="1.885"/>
+      </controlPoints2>
+      <color hex="00ff00"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.passive.Resistor>
+      <name>R65</name>
+      <alpha>127</alpha>
+      <length value="12.0" unit="mm"/>
+      <width value="5.0" unit="mm"/>
+      <points>
+        <point x="1.13" y="1.01"/>
+        <point x="0.88" y="1.76"/>
+        <point x="1.07" y="1.23"/>
+      </points>
+      <bodyColor hex="e0c68b"/>
+      <borderColor hex="a59268"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <value value="10.0" unit="K"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.passive.AxialElectrolyticCapacitor>
+      <name>100v</name>
+      <alpha>127</alpha>
+      <length value="0.5" unit="in"/>
+      <width value="0.2" unit="in"/>
+      <points>
+        <point x="0.87" y="1.76"/>
+        <point x="0.385" y="1.15"/>
+        <point x="0.665" y="1.51"/>
+      </points>
+      <bodyColor hex="0033cc"/>
+      <borderColor hex="4a4c90"/>
+      <labelColor hex="ffff00"/>
+      <leadColor hex="cccccc"/>
+      <display>BOTH</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <value value="5.0" unit="uF"/>
+      <voltage>_63V</voltage>
+      <voltageNew value="100.0" unit="V"/>
+      <markerColor hex="333333"/>
+      <tickColor hex="ffffff"/>
+      <polarized>true</polarized>
+    </diylc.passive.AxialElectrolyticCapacitor>
+    <diylc.misc.WrapLabel>
+      <name>L22</name>
+      <controlPoints>
+        <point x="0.515" y="0.88"/>
+        <point x="2.135" y="1.38"/>
+      </controlPoints>
+      <firstPoint x="0.515" y="0.88"/>
+      <secondPoint x="2.135" y="1.38"/>
+      <font name="Dialog" size="14" style="0"/>
+      <color hex="ffffff"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <value>10K</value>
+    </diylc.misc.WrapLabel>
+    <diylc.misc.WrapLabel>
+      <name>L17</name>
+      <controlPoints>
+        <point x="0.55" y="1.95"/>
+        <point x="2.17" y="2.45"/>
+      </controlPoints>
+      <firstPoint x="0.55" y="1.95"/>
+      <secondPoint x="2.17" y="2.45"/>
+      <font name="Dialog" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <value>G</value>
+    </diylc.misc.WrapLabel>
+    <diylc.misc.WrapLabel>
+      <name>L34</name>
+      <controlPoints>
+        <point x="0.71" y="1.945"/>
+        <point x="2.33" y="2.445"/>
+      </controlPoints>
+      <firstPoint x="0.71" y="1.945"/>
+      <secondPoint x="2.33" y="2.445"/>
+      <font name="Dialog" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <value>D</value>
+    </diylc.misc.WrapLabel>
+    <diylc.misc.WrapLabel>
+      <name>L35</name>
+      <controlPoints>
+        <point x="0.7" y="2.175"/>
+        <point x="2.32" y="2.675"/>
+      </controlPoints>
+      <firstPoint x="0.7" y="2.175"/>
+      <secondPoint x="2.32" y="2.675"/>
+      <font name="Dialog" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <value>S</value>
+    </diylc.misc.WrapLabel>
+    <diylc.misc.Label>
+      <name>L70</name>
+      <point x="1.215" y="2.43"/>
+      <text>Bias Resistor</text>
+      <font name="Dialog" size="12" style="1"/>
+      <color hex="ffffff"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+  </components>
+  <groups/>
+  <lockedLayers/>
+  <hiddenLayers/>
+  <font name="Square721BT-Roman" size="14" style="0"/>
+</project>

@@ -11,7 +11,7 @@ This project is to create a tube amplifier chassis that can be compared to a Dum
 | AutoCAD-Design | Layout and precision design using AutoCAD. *.dwg and *.dxf files |
 | BOM | Excel lists of my purchases. Mouser project file as well that can import into Mouser's BOM Manager for easy purchase.  |
 | Reference-Pictures | *.png screen shots of various portions of the chassis in Inventor |
-| Circuit | Schematics and layouts that are SSS #002 based. Includes *.DIY DIYLC files  |
+| Circuit | Schematics and layouts that are SSS #002 based. Includes *.DIY DIYLC files as well as individual PDF/PNG of the boards  |
 | Silkscreen-Artwork | *.pdf and *.svg of the front and back artwork |
 
 
@@ -57,7 +57,7 @@ There is usually a setup fee and with this fee, the silk screener might adjust t
 I use Korzon Screen Printing in Connecticut [https://www.korzonscreenprinting.com/](https://www.korzonscreenprinting.com/) I cannot guarentee they will take you on as a customer but it doesn't hurt to get a quote.
 
 ### Notes about Circuit Boards & BOM
-I have made a layout that matches the chassis for this project. I used DIY Layout Creator Freeware [http://diy-fever.com/software/diylc/](http://diy-fever.com/software/diylc/) because the .diy files can be uploaded to Hoffman Amplifiers [https://hoffmanamps.com/](https://hoffmanamps.com/) and their CNC machine can make holes and add eyelets or turrets for each board. The files I created use standard G10 boards that are 3.125" hight and compatible with Hoffman's CNC machine. dig into [master/Circuit](https://github.com/colganr/steel-string-singer-sn-002/tree/master/Circuit) for each board. 
+I have made a layout that matches the chassis for this project. I used DIY Layout Creator Freeware [http://diy-fever.com/software/diylc/](http://diy-fever.com/software/diylc/) because the .diy files can be uploaded to Hoffman Amplifiers. Hoffman Amplifiers made it even easier to order by adding this project to their board set [https://hoffmanamps.com/MyStore/catalog/MiscEyeletBoard.htm](https://hoffmanamps.com/MyStore/catalog/MiscEyeletBoard.htm)
 
 ### Notes about the Head Cabinet/Shell
 I recommend Taylor @ Amplified Nation http://amplifiednation.com/ to get a quote for making the cabinet for this chassis. I've already talked with him and he's excited to meet your goals. 
@@ -66,4 +66,4 @@ I recommend Taylor @ Amplified Nation http://amplifiednation.com/ to get a quote
 Always double check mine, and your work. I am not responsible for any loses as I'm providing this information for free and educational purposes. I am confident these drawings and files will produce an excellent chassis as-is and I have a bit of experience now with designing and outsourcing my own chasiss. Enjoy and good look! Drop me a message if you have any questions or you want to let me know how your chassis went! 
 [https://www.thetonegeek.com/](https://www.thetonegeek.com/)
 
-I also am creating a YouTube series for my build for reference [TheToneGeek YouTube Page](https://www.youtube.com/channel/UCu4ohfa8-YILJAzfYLCvr1g)
+I also am creating a YouTube series for my build for reference [TheToneGeek YouTube SSS #002 Playlist](https://www.youtube.com/playlist?list=PL7cXUZ8g7NhQ-m8TfABf82qVsaGDDUorQ)
