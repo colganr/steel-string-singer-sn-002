@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <project>
   <fileVersion>
-    <major>3</major>
-    <minor>57</minor>
+    <major>4</major>
+    <minor>5</minor>
     <build>0</build>
   </fileVersion>
   <title>New Project</title>
@@ -10,6 +10,7 @@
   <width value="7.0" unit="in"/>
   <height value="4.0" unit="in"/>
   <gridSpacing value="0.1" unit="in"/>
+  <dotSpacing>1</dotSpacing>
   <components>
     <diylc.boards.BlankBoard>
       <name>Board4</name>
@@ -28,6 +29,7 @@
       <coordinateOrigin>Top_Left</coordinateOrigin>
       <coordinateDisplay>One_Side</coordinateDisplay>
       <yType>Letters</yType>
+      <mode>TwoPoints</mode>
       <type>SQUARE</type>
     </diylc.boards.BlankBoard>
     <diylc.connectivity.Eyelet>
@@ -668,24 +670,6 @@
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
     </diylc.connectivity.CopperTrace>
-    <diylc.connectivity.HookupWire>
-      <name>W47</name>
-      <alpha>127</alpha>
-      <controlPoints2>
-        <point x="1.44" y="0.3"/>
-        <point x="1.505" y="-0.345"/>
-        <point x="3.455" y="-0.245"/>
-        <point x="3.39" y="0.35"/>
-      </controlPoints2>
-      <color hex="000000"/>
-      <pointCount>FOUR</pointCount>
-      <style>SOLID</style>
-      <smooth>false</smooth>
-      <lastUpdatePointIndex>3</lastUpdatePointIndex>
-      <gauge>_18</gauge>
-      <striped>false</striped>
-      <stripeColor hex="ffff00"/>
-    </diylc.connectivity.HookupWire>
     <diylc.connectivity.Jumper>
       <name>J52</name>
       <alpha>127</alpha>
@@ -933,6 +917,7 @@
   </components>
   <groups/>
   <lockedLayers/>
+  <lockedComponents/>
   <hiddenLayers/>
-  <font name="Square721BT-Roman" size="14" style="0"/>
+  <font name="Dialog" size="14" style="0"/>
 </project>

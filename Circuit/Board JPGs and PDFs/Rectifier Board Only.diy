@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <project>
   <fileVersion>
-    <major>3</major>
-    <minor>57</minor>
+    <major>4</major>
+    <minor>5</minor>
     <build>0</build>
   </fileVersion>
   <title>New Project</title>
@@ -10,6 +10,7 @@
   <width value="2.0" unit="in"/>
   <height value="4.0" unit="in"/>
   <gridSpacing value="0.1" unit="in"/>
+  <dotSpacing>1</dotSpacing>
   <components>
     <diylc.boards.BlankBoard>
       <name>Board5</name>
@@ -28,6 +29,7 @@
       <coordinateOrigin>Top_Left</coordinateOrigin>
       <coordinateDisplay>One_Side</coordinateDisplay>
       <yType>Letters</yType>
+      <mode>TwoPoints</mode>
       <type>SQUARE</type>
     </diylc.boards.BlankBoard>
     <diylc.connectivity.Eyelet>
@@ -291,7 +293,7 @@
       <flipStanding>false</flipStanding>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
-      <value value="4.7" unit="K"/>
+      <value value="10.0" unit="K"/>
       <power>HALF</power>
       <powerNew value="3.0" unit="W"/>
       <colorCode>_5_BAND</colorCode>
@@ -373,6 +375,7 @@
   </components>
   <groups/>
   <lockedLayers/>
+  <lockedComponents/>
   <hiddenLayers/>
-  <font name="Square721BT-Roman" size="14" style="0"/>
+  <font name="Dialog" size="14" style="0"/>
 </project>

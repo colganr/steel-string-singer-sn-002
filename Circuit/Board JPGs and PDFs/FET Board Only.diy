@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <project>
   <fileVersion>
-    <major>3</major>
-    <minor>57</minor>
+    <major>4</major>
+    <minor>5</minor>
     <build>0</build>
   </fileVersion>
   <title>New Project</title>
@@ -10,16 +10,17 @@
   <width value="2.0" unit="in"/>
   <height value="4.0" unit="in"/>
   <gridSpacing value="0.1" unit="in"/>
+  <dotSpacing>1</dotSpacing>
   <components>
     <diylc.boards.BlankBoard>
       <name>Board6</name>
       <alpha>127</alpha>
       <value></value>
       <controlPoints>
-        <point x="0.0050" y="0.01"/>
+        <point x="0.005" y="0.01"/>
         <point x="1.755" y="3.135"/>
       </controlPoints>
-      <firstPoint x="0.0050" y="0.01"/>
+      <firstPoint x="0.005" y="0.01"/>
       <secondPoint x="1.755" y="3.135"/>
       <boardColor hex="333333"/>
       <borderColor hex="ada47d"/>
@@ -28,6 +29,7 @@
       <coordinateOrigin>Top_Left</coordinateOrigin>
       <coordinateDisplay>One_Side</coordinateDisplay>
       <yType>Letters</yType>
+      <mode>TwoPoints</mode>
       <type>SQUARE</type>
     </diylc.boards.BlankBoard>
     <diylc.shapes.Ellipse>
@@ -217,7 +219,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="1.525" y="0.35"/>
+      <point x="1.52" y="0.35"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -279,7 +281,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="0.63" y="0.34"/>
+      <point x="0.625" y="0.34"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Jumper>
@@ -342,9 +344,9 @@
       <length value="0.85" unit="in"/>
       <width value="0.32" unit="in"/>
       <points>
-        <point x="1.525" y="0.35"/>
+        <point x="1.52" y="0.35"/>
         <point x="1.505" y="1.885"/>
-        <point x="1.3" y="0.59"/>
+        <point x="1.295" y="0.59"/>
       </points>
       <bodyColor hex="0033cc"/>
       <borderColor hex="4a4c90"/>
@@ -390,9 +392,9 @@
       <length value="16.0" unit="mm"/>
       <width value="6.0" unit="mm"/>
       <points>
-        <point x="1.525" y="0.35"/>
-        <point x="0.63" y="0.34"/>
-        <point x="1.145" y="0.34"/>
+        <point x="1.52" y="0.35"/>
+        <point x="0.625" y="0.34"/>
+        <point x="1.14" y="0.34"/>
       </points>
       <bodyColor hex="d2d7db"/>
       <borderColor hex="b2b7bb"/>
@@ -411,9 +413,9 @@
       <name>J114</name>
       <alpha>127</alpha>
       <points>
-        <point x="1.525" y="0.35"/>
+        <point x="1.52" y="0.35"/>
         <point x="1.13" y="1.01"/>
-        <point x="1.375" y="0.605"/>
+        <point x="1.37" y="0.605"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -625,6 +627,7 @@
   </components>
   <groups/>
   <lockedLayers/>
+  <lockedComponents/>
   <hiddenLayers/>
-  <font name="Square721BT-Roman" size="14" style="0"/>
+  <font name="Dialog" size="14" style="0"/>
 </project>
