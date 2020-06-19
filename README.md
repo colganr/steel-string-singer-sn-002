@@ -1,5 +1,5 @@
 # steel-string-singer-sn-002
-This project is intended for hobbyists. Amp builders for profit may use the information here, but I'd encourage a reasonable donation for my efforts. If you find this information useful, please consider adding to my virtual tip jar here: [https://www.paypal.me/thetonegeek](https://www.paypal.me/thetonegeek)
+This project is intended for hobbyists. Amp builders for profit may use the information here, but I'd encourage a reasonable donation for my efforts as a win-win-win for the customer, your business, and myself for giving you the tools for the sale. If you find this information useful, please consider adding to my virtual tip jar here: [https://www.paypal.me/thetonegeek](https://www.paypal.me/thetonegeek)
 
 
 This project is to create a tube amplifier chassis that can be compared to a Dumble Steel String Singer s/n #002. I'm sharing these drawings free of charge with hopes to inspire someone to persue a custom chassis for their tube amplifier goal. These drawings can be used as an educational reference, but is also complete enough to fabricate as-is.
