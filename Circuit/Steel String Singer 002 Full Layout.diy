@@ -14149,8 +14149,8 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <width value="5.0" unit="mm"/>
       <points>
         <point x="22.8" y="9.925"/>
-        <point x="22.34" y="8.905"/>
-        <point x="22.54894109990165" y="9.391409266085015"/>
+        <point x="22.8" y="9.325"/>
+        <point x="22.790501319169625" y="9.594837522275474"/>
       </points>
       <bodyColor hex="8b4513"/>
       <borderColor hex="a59268"/>
