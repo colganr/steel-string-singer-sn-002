@@ -7513,7 +7513,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <pinSpacing value="0.1" unit="in"/>
     </diylc.passive.RadialFilmCapacitor>
     <diylc.passive.Resistor>
-      <name>270k or 100k</name>
+      <name>100k</name>
       <alpha>127</alpha>
       <length value="12.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
@@ -7526,12 +7526,12 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <borderColor hex="a59268"/>
       <labelColor hex="000000"/>
       <leadColor hex="cccccc"/>
-      <display>NAME</display>
+      <display>VALUE</display>
       <flipStanding>false</flipStanding>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
       <hideShortLeads>false</hideShortLeads>
-      <value value="270.0" unit="K"/>
+      <value value="100.0" unit="K"/>
       <power>HALF</power>
       <powerNew value="0.5" unit="W"/>
       <colorCode>_5_BAND</colorCode>
@@ -21879,28 +21879,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsHf8PbWZmcj/mpMIAAAAASUVORK5CYII=</data>
       <name>L75</name>
       <point x="0.305" y="3.005"/>
       <text>Original #002 is fixed bias. This layout makes the bias adjustable.</text>
-      <font reference="../../diylc.misc.Label[44]/font"/>
-      <color hex="000000"/>
-      <center>false</center>
-      <horizontalAlignment>LEFT</horizontalAlignment>
-      <verticalAlignment>CENTER</verticalAlignment>
-      <orientation>DEFAULT</orientation>
-    </diylc.misc.Label>
-    <diylc.misc.Label>
-      <name>L79</name>
-      <point x="0.285" y="3.18"/>
-      <text>For 270k or 100k, I personally like 270k (more reverb, on handdrawn schematic) versus </text>
-      <font reference="../../diylc.misc.Label[44]/font"/>
-      <color hex="000000"/>
-      <center>false</center>
-      <horizontalAlignment>LEFT</horizontalAlignment>
-      <verticalAlignment>CENTER</verticalAlignment>
-      <orientation>DEFAULT</orientation>
-    </diylc.misc.Label>
-    <diylc.misc.Label>
-      <name>L80</name>
-      <point x="0.585" y="3.34"/>
-      <text>100k (visually confirmed on real #002)</text>
       <font reference="../../diylc.misc.Label[44]/font"/>
       <color hex="000000"/>
       <center>false</center>
