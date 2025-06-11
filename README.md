@@ -13,6 +13,7 @@ This project is to create a tube amplifier chassis that can be compared to a Dum
 | Reference-Pictures | *.png screen shots of various portions of the chassis in Inventor |
 | Circuit | Schematics and layouts that are SSS #002 based. Includes *.DIY DIYLC files as well as individual PDF/PNG of the boards  |
 | Silkscreen-Artwork | *.pdf and *.svg of the front and back artwork |
+| Gerber PCB Files | *.ZIP files for PCB manufacturing. No need to extract the Zip files.|
 
 
 
@@ -59,8 +60,10 @@ I use Korzon Screen Printing in Connecticut [https://www.korzonscreenprinting.co
 ### Notes about Circuit Boards & BOM
 I have made a layout that matches the chassis for this project. I used DIY Layout Creator Freeware [http://diy-fever.com/software/diylc/](http://diy-fever.com/software/diylc/) because the .diy files can be uploaded to Hoffman Amplifiers. Hoffman Amplifiers made it even easier to order by adding this project to their board set [https://hoffmanamps.com/MyStore/catalog/MiscEyeletBoard.htm](https://hoffmanamps.com/MyStore/catalog/MiscEyeletBoard.htm)
 
+Erwin (https://ampgarage.com/forum/memberlist.php?mode=viewprofile&u=4207) Has freely contributed his PCB files to the project! Thank you, Erwin! You can upload the *.ZIP files directly to sites like https://jlcpcb.com/ to have PCBs manufactuered for this project. 
+
 ### Notes about the Head Cabinet/Shell
-I recommend Taylor @ Amplified Nation http://amplifiednation.com/ to get a quote for making the cabinet for this chassis. I've already talked with him and he's excited to meet your goals. 
+I don't think anyone is building custom cabs at the moment. You might have good luck reaching out to KC at [guitarcabinetsdirect.com. ](https://guitarcabinetsdirect.com/). The headshell size is 12" Heigh wood-to-wood, 10.25" depth, 24" width at the face opening (~25.5 width total), and 2.5" for the face opening to the bottom bar of the "grill".  
 
 ### Additional Information
 Always double check mine, and your work. I am not responsible for any loses as I'm providing this information for free and educational purposes. I am confident these drawings and files will produce an excellent chassis as-is and I have a bit of experience now with designing and outsourcing my own chasiss. Enjoy and good look! Drop me a message if you have any questions or you want to let me know how your chassis went! 
